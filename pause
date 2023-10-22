@@ -1,0 +1,786 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",  SPOTV 1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SPORT 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv2.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",SPORTTV 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",SPORTTV 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SPORTTV 3
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SPORTTV 4
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",SOCCER
+https://maper.info/SoccerChannel_shareext
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",ELEVEN 5
+http://assista.pro:80/0333686557/Vilamariante1/284961
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",DISCTURBO
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disturbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",WWE
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",BEIN SPORT 01
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165105
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",BEIN SPORT 03
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298506
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",  USEESPORT 01
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298577
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",  USEESPORT 02
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298578
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",MNC Sports
+http://iptvtree.net:8080/EyQcvdQmdH/3373082b90/157589
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",MNC Sports 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",MNC Sports 3
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298549
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", TVRI SPORT HD
+http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", ORANGE Sport 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", ORANGE Sport 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", ORANGE Sport 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", ORANGE Sport 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", Champions League 2
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", Champions League 3
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", Champions League 4
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/756
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",Eurosport
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",MOTORVISIONTV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", Star Sports 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/82628
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", Star Sports 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3631
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", Star Sports 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/62584
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",Premier Sport
+https://github.com/mimipipi22/lalajo/raw/main/premiersport.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",TSN 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",TSN 4
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2",TSN 5
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SONY SPORTS TEN 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SONY SPORTS TEN 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SONY SPORTS TEN 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SONY SPORTS TEN 4 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P65cc4L/sport-logo.jpg" group-title="SPORT-2", SONY SPORTS TEN 5 
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",TRANSTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",TRANS7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+#EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",ANTV HD
+http://210.210.155.35/qwr9ew/s/s07/index3.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=antv
+#EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",INDOSIAR
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",MNCTV
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF:-1 tvg-id="SCTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",SCTV 
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",RCTI 
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
+#EXTINF:-1 tvg-id="NET.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2", NET
+https://kusnadipepenk.github.io/campeign/netv.m3u8
+#EXTINF:-1 tvg-id="RTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2", RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1 tvg-id="MOJI.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",MOJI HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",KOMPASTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",TV ONE
+https://kusnadipepenk.github.io/campeign/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",METROTV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",IDX CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",GARUDATV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",DAAITV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",TV9 NUSANTARA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",FIRST WARRIORS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",FIRST LIFESTYLE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",TVRI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
+
+
+
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",TV Sukan
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",OKEY TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",Astro Arena
+http://sysadminhost.net:8080/stadnik/6a627b52a9/157485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",Astro Awani
+http://sysadminhost.net:8080/stadnik/6a627b52a9/157478
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",Astro Cricket
+http://sysadminhost.net:8080/stadnik/6a627b52a9/157565
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",Astro Oasis
+http://sysadminhost.net:8080/stadnik/6a627b52a9/157489
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",Astro Prima
+http://sysadminhost.net:8080/stadnik/6a627b52a9/157467
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",NTV 7
+http://sysadminhost.net:8080/stadnik/6a627b52a9/174695
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTM TV 1
+http://sysadminhost.net:8080/stadnik/6a627b52a9/158357
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTM TV 2
+http://sysadminhost.net:8080/stadnik/6a627b52a9/158355
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTM TV 3
+http://sysadminhost.net:8080/stadnik/6a627b52a9/158360
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTN TV 9
+http://sysadminhost.net:8080/stadnik/6a627b52a9/171953
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTB Go
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+
+############# LIVE EVENT ###############
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 1 
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 2
+http://gamsgo.cyou:8080/kingtveuex/lAEPMRIE4jqjMamv/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 3
+http://kuchini.site:8080/F30140/f3de2280/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 4
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+##http://tvkuonline.my.id:25461/riyad/riyad/14
+##https://179720687.global.cdnfastest.com/live/sd-y0or5jhz2o6eqwz/chunklist_w404145794.m3u8
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 5
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
+##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 6
+http://kuchini.site:8080/F30140/f3de2280/298549
+##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 7
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298491
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 8
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298492
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 9
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 10 
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 11
+http://kuchini.site:8080/F30140/f3de2280/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 12
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+##http://tvkuonline.my.id:25461/riyad/riyad/14
+##https://179720687.global.cdnfastest.com/live/sd-y0or5jhz2o6eqwz/chunklist_w404145794.m3u8
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 13
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
+##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIVE EVENT", LAGA 14
+http://kuchini.site:8080/F30140/f3de2280/298549
+##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE 1
+http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE2
+http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154820&extension=ts&play_token=MU1hoMHWkL
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=ts&play_token=V9YxR3GC9d
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE​ 7
+http://starshare.live:8080/live/Agness/Agness/98867.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,PREMIER LEAGUE 8
+http://starshare.live:8080/live/Agness/Agness/98868.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA",LA LIGA 1
+http://starshare.live:8080/live/Agness/Agness/6625.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA"​,LA LIGA 2
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA",LA LIGA 3
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/1141
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA",LIGA ITALY
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOQ9-xQo7Dn3VIHXF0eUTVhJzRL2bVdcHRwxlap1TNlcngIiU5mz2asREK3AacOYQE5M&usqp=CAU" group-title="LIGA EROPA",LIGA ITALY 2
+http://humiptv.live:8080/live/0192838773/9948381838/1211.ts
+
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 1
+http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1040328&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 2
+http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 4
+http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47167
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq 
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 6
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=ts&play_token=V9YxR3GC9d
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 8
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63303_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 9
+http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=28096_&extension=m3u8
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 10
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 11
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 12
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 13
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 14
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 15
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension=ts&play_token=ijnmRQLtfl
+
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 3
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
+
+
+
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508331&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
+
+----- MEDIACROP ASIAN GAMES -----
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE EVENT
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
+
+ASIAN GAMES CHINA
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 1
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation51/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3a327c3769e750894bb30b35ffb63a63
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 2
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation52/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=72686708b502d3b8d8d091c5a2132803
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 3
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation53/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e60a656af7c0bf1ad9286d81223cd5bc
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 4
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation54/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=311c48c3e59c036d1b9d95b3d9f3f64d
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 5
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation55/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cacf7e0730769dac2d88d81415423906
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 6
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation56/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=548904ffa18533be1cb78c980c3b2614
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 7
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation57/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ab76e86390524f8c4d407eb7e514c521
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 8
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation58/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4a74fe07dad1ef91ba93fcf7fbb71ade
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 9
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation59/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8a76d4326f9420750a5d742fdbe7243f
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 10
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation60/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=058c7b1273a21f0f86db490151255c9a
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 11
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation61/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f386db9586e3db7469848c7fb6f97177
+
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 12
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation62/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=db75ce9c7660e44e272d22f707c34a0f
+
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 13
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation63/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9ffe2e7050483968cb68d610a632bf42
+
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 14
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation64/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=016871adcfbddf12decd54c15c340973
+
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 15
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation65/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5c5546d63b17fb2bd9bbac904d9dd0b5
+
+
+
+
+
+
+
+=============TILAWAH ALQUR'AN=============
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN", [114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 1
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/01.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 2
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/02.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 3
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/03.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 4
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/04.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 5
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/05.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 6
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/06.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 7
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/07.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 8
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/08.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 9
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/09.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 10
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/10.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 11
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/11.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 12
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/12.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 13
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/13.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 14
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/14.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 15
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/15.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 16
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/16.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 17
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/17.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 18
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/18.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 19
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/19.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 20
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/20.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 21
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/21.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 22
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/22.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 24
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/24.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 25
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/25.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 26
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/26.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 27
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/27.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 28
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/28.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 29
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
