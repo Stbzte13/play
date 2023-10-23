@@ -2,7 +2,7 @@
 https://raw.githubusercontent.com/ferdinand303/Arum/main/SCTV.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="NATIONAL",INDOSIAR
-https://raw.githubusercontent.com/ferdinand303/Arum/main/indosiar.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="NATIONAL",NET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1787,6 +1787,40 @@ http://kuchini.site:8080/dooby1312/b244f7ab/157557
 http://kuchini.site:8080/dooby1312/b244f7ab/157558
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOsJjt-nvJCDg7vCVFMJwQPGKKBU5LWUN0apl7uJ92I6vmcFif9gB6NyWho9ESLByjP_Q&usqp=CAU" group-title="ASTRO",MAL|SupSport 5
 http://kuchini.site:8080/dooby1312/b244f7ab/287792
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S2
+http://kuchini.site:8080/F30140/f3de2280/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S2
+http://kuchini.site:8080/F30140/f3de2280/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S2
+http://kuchini.site:8080/F30140/f3de2280/157591
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S3
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157591
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298550
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S2
+http://kuchini.site:8080/F30140/f3de2280/298550
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S3
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 6
+http://iptvorbit.net:8080/andy/andy/17428
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 5
+http://iptvorbit.net:8080/andy/andy/17855
 
 =======================LIVE EVENT===========================================
 
