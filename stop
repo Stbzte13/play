@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/ferdinand303/Arum/main/trans7.m3u8
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS7 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/TRANS%207%202.m3u8
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",ANTV
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8?app_type=web&userid=lite&chname=antv
+http://digitalnow.live:8080/gratisan/4kERDedz6R/21067
 #EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",MNCTV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
