@@ -13,8 +13,7 @@ https://raw.githubusercontent.com/ferdinand303/Arum/main/trans7.m3u8
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS7 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/TRANS%207%202.m3u8
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",ANTV
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-#http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/165072
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8?app_type=web&userid=lite&chname=antv
 #EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",MNCTV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
@@ -145,6 +144,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 ############################################ MOVIE #######################################################
 #EXTM3U
+#EXTINF: -1 tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",Nadoo Korea
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=lite&chname=NaDooKorean
 #EXTINF: -1 tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",Citra Bioskop
