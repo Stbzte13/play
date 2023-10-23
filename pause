@@ -90,9 +90,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",TRANS7 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",ANTV HD
-http://210.210.155.35/qwr9ew/s/s07/index3.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=antv
+http://digitalnow.live:8080/gratisan/4kERDedz6R/21067
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",INDOSIAR
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",MNCTV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 #EXTINF:-1 tvg-id="SCTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",SCTV 
@@ -100,9 +100,9 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-id="RCTI.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",RCTI 
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
 #EXTINF:-1 tvg-id="NET.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2", NET
-https://kusnadipepenk.github.io/campeign/netv.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/18
 #EXTINF:-1 tvg-id="RTV.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2", RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1 tvg-id="MOJI.id"  tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",MOJI HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fxMSsT/bukan-tv.jpg" group-title="LOKAL 2",USEE PRIME
@@ -185,6 +185,41 @@ http://sysadminhost.net:8080/stadnik/6a627b52a9/171953
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTB Go
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S2
+http://kuchini.site:8080/F30140/f3de2280/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S2
+http://kuchini.site:8080/F30140/f3de2280/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S2
+http://kuchini.site:8080/F30140/f3de2280/157591
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S3
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157591
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298550
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S2
+http://kuchini.site:8080/F30140/f3de2280/298550
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S3
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 6
+http://iptvorbit.net:8080/andy/andy/17428
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 5
+http://iptvorbit.net:8080/andy/andy/17855
+
 
 
 ############# LIVE EVENT ###############
