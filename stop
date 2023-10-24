@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",SCTV
-https://raw.githubusercontent.com/ferdinand303/Arum/main/SCTV.m3u8
+https://kusnadipepenk.github.io/campeign/sctv.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",INDOSIAR
-https://raw.githubusercontent.com/ferdinand303/Arum/main/indosiar.m3u8
+https://kusnadipepenk.github.io/campeign/indos.m3u8
 ##http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS TV
 https://raw.githubusercontent.com/ferdinand303/Arum/main/transtv.m3u8
@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/ferdinand303/Arum/main/trans7.m3u8
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS7 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/TRANS%207%202.m3u8
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",ANTV
-http://digitalnow.live:8080/gratisan/4kERDedz6R/21067
+https://kusnadipepenk.github.io/campeign/antv.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",MNCTV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
@@ -120,7 +120,7 @@ http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg" group-title="NEWS",MNC News
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165058
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",iNews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8 
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",Metro TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",IDX Ch
@@ -297,12 +297,91 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&exten
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
 
 
+__________ VTV_____________
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",VTV 
+https://livecdn-vthn-vnw.vieon.vn/livetv/fdb7f91923323e646a69ce149f95f6cd/playlist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",VTV 1
+http://gg.gg/VTV1ONHD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png",VTV 2
+http://gg.gg/VTV2FHD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png",VTV 3
+http://gg.gg/VTV3FHD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",VTV 4
+https://livecdn-vthn-vnw.vieon.vn/livetv/c9e89fdf42233e52a57a312baa4e9da0/playlist.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png",VTV 5
+http://gg.gg/VTV5TNFHD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png",VTV 7
+http://gg.gg/VTV7FHD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png",VTV 8
+http://gg.gg/VTV8FHD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png",VTV 9
+http://gg.gg/VTV9FHD
 
-
+🆀🆄🅾🅲 🆃🅴
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-1🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-2🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-3🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-7🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-9🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-10🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-11🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-12🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-13🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-14🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",湖南卫视HD Hồ Nam🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",浙江卫视HD Chiết Giang🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江苏卫视HD Giang Tô🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",北京卫视HD Bắc Kinh🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东方卫视HD Dragon TV🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",深圳卫视HD Thâm Quyến🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",安徽卫视HD An Huy🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",辽宁卫视HD Liêu Ninh🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226689/1.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",山东卫视HD Sơn Đông🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",天津卫视HD Thiên Tân🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",重庆卫视HD Trùng Khánh🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东南卫视HD Đông Nam Phúc Kiến🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226670/1.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河北卫视HD Hà Bắc🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",黑龙江卫视HD Hắc Long Giang🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河南卫视HD Hà Nam🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"  group-title="🆀🆄🅾🅲 🆃🅴",湖北卫视HD Hồ Bắc🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江西卫视HD Giang Tây🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",厦门卫视 Đông Bắc🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226695/1.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",贵州卫视HD Quý Châu🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226672/1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",四川卫视HD Tứ Xuyên🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",海南卫视HD Hải Nam🇨🇳
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 ############################################ KNOWLEDGE #######################################################
 #EXTM3U
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/RjRj98s/knowledge.jpg",National Geographic 
-https://github.com/mimipipi22/lalajo/raw/main/natgeo.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/RjRj98s/knowledge.jpg",Discovery Channel
 https://github.com/mimipipi22/lalajo/raw/main/discoverychannel.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/RjRj98s/knowledge.jpg",CGTN Documentary 
