@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-poster-cinema-banner-600w-1095958844.jpg" group-title="LIVE CINEMA",	Expend4bles 4
 https://t5xxz1pl5b95.lions-vidcdn.com/hls2/01/00709/1d516x84mzlt_l/index-v1-a1.m3u8?t=fsaT5SGnjhh8xERd9fR3Qod5f2Ah8RCR6aW735bfj5s&s=1698230761&e=129600&f=3547956&srv=qsEYez46S00R&i=0.4&sp=1500&p1=qsEYez46S00R&p2=qsEYez46S00R&asn=7713
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCr312vepQe7XICQLGQw6nImNzQgaQkOa-5yclVOmPBgYm-UQPNwyVZABAEz-e3GM16-k&usqp=CAU" group-title="LIVE CINEMA", The Equalizer 3 (2023)
+https://tbojdfop4bhf.lions-vidcdn.com/hls2/01/00665/e20cg6y7brbm_,l,n,.urlset/index-f1-v1-a1.m3u8?t=naokpm5Z8lCQgn-e1SONCIGRHdw2LWAKc_5HVErBO_o&s=1698231251&e=129600&f=3326138&srv=UTUzyKaN5fLY&i=0.4&sp=1500&p1=UTUzyKaN5fLY&p2=UTUzyKaN5fLY&asn=7713
 #EXTM3U
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",SCTV
 http://013tv.com:8080/9f922928/W9pyRzjgXsNAUw4w/162141
