@@ -120,7 +120,7 @@ http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg" group-title="NEWS",MNC News
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165058
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",iNews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+http://013tv.com:8080/9f922928/W9pyRzjgXsNAUw4w/157579
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",Metro TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",IDX Ch
