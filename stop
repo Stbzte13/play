@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF: -1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-poster-cinema-banner-600w-1095958844.jpg" group-title="LIVE CINEMA",	Expend4bles
+https://data.streamku.xyz/mv/240-expend.mp4
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",SCTV
 https://kusnadipepenk.github.io/campeign/sctv.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",INDOSIAR
