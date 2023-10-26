@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="NATIONAL",SCTV
-https://kusnadipepenk.github.io/campeign/sctv.m3u8
+http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/131594
 
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="NATIONAL",INDOSIAR
 https://kusnadipepenk.github.io/campeign/indos.m3u8
@@ -27,7 +27,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PksAqDl.png" group-title="NATIONAL", ANTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 #EXTINF:0 tvg-logo="https://vignette4.wikia.nocookie.net/logo-timeline/images/5/53/RTV_Stacked_version.png/revision/latest?cb=20140826065953" group-title="NATIONAL",RTV
@@ -2594,38 +2594,52 @@ http://kuchini.site:8080/dooby1312/b244f7ab/157558
 http://kuchini.site:8080/dooby1312/b244f7ab/287792
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S1
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S2
 http://kuchini.site:8080/F30140/f3de2280/162138
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", INDOSIAR S3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S3
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S4
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S1
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S2
-http://kuchini.site:8080/F30140/f3de2280/298549
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", SPORTSTARS S3
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", RCTI S1
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", RCTI S2
 http://kuchini.site:8080/F30140/f3de2280/157591
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", RCTI S3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", RCTI S3
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157591
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", MOJI S1
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298550
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", MOJI S2
 http://kuchini.site:8080/F30140/f3de2280/298550
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA TARKAM 1🇲🇨#", MOJI S3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", MOJI S3
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298550
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 6
-http://iptvorbit.net:8080/andy/andy/17428
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="#🏆JUARA CHANNEL🏆#", JUARA TV 5
-http://iptvorbit.net:8080/andy/andy/17855
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S2
+http://kuchini.site:8080/F30140/f3de2280/162141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162141
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/80292
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S2
+http://kuchini.site:8080/F30140/f3de2280/80292
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/80292
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S2
+http://kuchini.site:8080/F30140/f3de2280/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+
+
 
 =======================LIVE EVENT===========================================
 
