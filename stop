@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-poster-cinema-banner-600w-1095958844.jpg" group-title="LIVE CINEMA",	Expend4bles 4
-https://t5xxz1pl5b95.lions-vidcdn.com/hls2/01/00709/1d516x84mzlt_l/index-v1-a1.m3u8?t=fsaT5SGnjhh8xERd9fR3Qod5f2Ah8RCR6aW735bfj5s&s=1698230761&e=129600&f=3547956&srv=qsEYez46S00R&i=0.4&sp=1500&p1=qsEYez46S00R&p2=qsEYez46S00R&asn=7713
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCr312vepQe7XICQLGQw6nImNzQgaQkOa-5yclVOmPBgYm-UQPNwyVZABAEz-e3GM16-k&usqp=CAU" group-title="LIVE CINEMA", The Equalizer 3 (2023)
-https://tbojdfop4bhf.lions-vidcdn.com/hls2/01/00665/e20cg6y7brbm_,l,n,.urlset/index-f1-v1-a1.m3u8?t=naokpm5Z8lCQgn-e1SONCIGRHdw2LWAKc_5HVErBO_o&s=1698231251&e=129600&f=3326138&srv=UTUzyKaN5fLY&i=0.4&sp=1500&p1=UTUzyKaN5fLY&p2=UTUzyKaN5fLY&asn=7713
-#EXTM3U
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",SCTV
-http://013tv.com:8080/9f922928/W9pyRzjgXsNAUw4w/162141
+https://nonton.site:8443/live/ekos/7483/931.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",INDOSIAR
 https://kusnadipepenk.github.io/campeign/indos.m3u8
 ##http://210.210.155.37/qwr9ew/s/s04/01.m3u8
@@ -14,7 +9,7 @@ https://raw.githubusercontent.com/ferdinand303/Arum/main/transtv.m3u8
 #EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANSTV 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/Trans%20Tv%202.m3u8
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS 7
-https://raw.githubusercontent.com/ferdinand303/Arum/main/trans7.m3u8
+https://bromo.kdb.co.id/Trans7/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS7 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/TRANS%207%202.m3u8
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",ANTV
@@ -33,7 +28,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/18
 #EXTINF:-1 tvg-id="RTV"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",RTV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1 tvg-id="MOJI"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",MOJI TV
-https://raw.githubusercontent.com/ferdinand303/Arum/main/MOJI.m3u8
+http://kuchini.site:8080/F30140/f3de2280/298550
 
 
 
@@ -128,19 +123,15 @@ http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg" group-title="NEWS",MNC News
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165058
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",iNews
-http://013tv.com:8080/9f922928/W9pyRzjgXsNAUw4w/157579
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",Metro TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
-#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",IDX Ch
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/idxchannel.m3u8 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1789666658_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",Berita Satu
 http://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8 
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",Jawa Pos TV 
 https://v2.siar.us/jawapostv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",JAKARTA GLOBE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
 #EXTINF:-1 tvg-id="InsertTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS", INSERT
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264766 
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",CNBC Indonesia
@@ -152,8 +143,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 ############################################ MOVIE #######################################################
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",Nadoo Korea
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=lite&chname=NaDooKorean
 #EXTINF: -1 tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",Citra Bioskop
