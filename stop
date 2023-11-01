@@ -2,7 +2,10 @@
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",SCTV
 https://nonton.site:8443/live/ekos/7483/931.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",INDOSIAR
-http://103.166.27.2:8112/play/a016/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
+##http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANSTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANSTV 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/Trans%20Tv%202.m3u8
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS 7
@@ -10,15 +13,17 @@ https://bromo.kdb.co.id/Trans7/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",TRANS7 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/TRANS%207%202.m3u8
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",ANTV
-https://kusnadipepenk.github.io/campeign/antv.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
+#https://kusnadipepenk.github.io/campeign/antv.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",MNCTV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
 #EXTINF:-1 tvg-id="GTV.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",GTV 
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1 tvg-id="RCTI.id"  tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",RCTI
-https://kusnadipepenk.github.io/campeign/rcti.m3u8
-http://tvkuonline.my.id:25461/riyad/riyad/8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
+##https://kusnadipepenk.github.io/campeign/rcti.m3u8
+##http://tvkuonline.my.id:25461/riyad/riyad/8
 #EXTINF:-1 tvg-id="NET.id"   tvg-logo="https://i.ibb.co/z8xqrnJ/live-tv-link.jpg" group-title="TV_LOKAL",NET
 http://tvkuonline.my.id:25461/riyad/riyad/18
 #http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/80292
@@ -166,9 +171,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4c
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 ##http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165079
 #EXTINF:-1 tvg-id="GALAXY" tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",GALAXY
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264773 
-#EXTINF:-1 tvg-id="GALAXY" tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",GALAXY 2
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/264773
+http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/264773 
 #EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",GALAXY PREMIUM 
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264774 
 #EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://i.ibb.co/q9sY6k9/movie.jpg" group-title="MOVIE",GALAXY PREMIUM 2
