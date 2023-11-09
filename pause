@@ -100,7 +100,7 @@ http://103.30.87.238:443/wadmanet/norlec212/907
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="TV_LOKAL",TRANS7 2
+#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL",TRANS7 2
 https://raw.githubusercontent.com/ferdinand303/Arum/main/TRANS%207%202.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
@@ -108,6 +108,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&ex
 https://raw.githubusercontent.com/ferdinand303/Arum/main/Trans%20Tv%202.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="NASIONAL",SCTV HD
 http://103.30.87.238:443/wadmanet/norlec212/890
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="NASIONAL",SCTV HD2
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL", RCTI
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
