@@ -1559,6 +1559,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/162138
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 http://103.166.27.2:8112/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🚩LIVE EVENT🚩"catchup="", SCTV HD
+http://103.30.87.238:443/wadmanet/norlec212/890
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
 https://sportsleading.online/live/stream_moto.m3u8
@@ -1569,3 +1572,13 @@ https://sportsleading.online/live/stream_moto.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
 http://esuniptvstream.com:88/F9864567/CARPUHECVV1VMZ3/192420
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ffb6f60bd35563da12fce4438b683d2:deb54c5f37aa0219099c22c2ddd9d4db
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
