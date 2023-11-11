@@ -929,6 +929,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 
+**** MOVIES HBO *****
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES HBO", HBO HD
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197972
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES HBO", Hbo Hits HD
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/196480
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES HBO", Hbo family HD
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197055
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES HBO", Hbo signature HD
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/221948
+#EXTINF:-1  tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png"  group-title="MOVIES HBO", Cinemax HD
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197964
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES HBO", WARNER TV
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
 ===========KNOWLEDGE==========
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JP5SHh/natgeo.png" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
