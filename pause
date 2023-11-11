@@ -117,7 +117,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&ex
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", Net TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV One
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", Metro TV
@@ -272,41 +272,153 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4m0S0L/MALAYSIA.jpg" group-title="MALAYSIA",RTB Go
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", RCTI S1
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", RCTI S2
-http://kuchini.site:8080/F30140/f3de2280/157591
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", RCTI S3
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157591
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", MOJI S1
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298550
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", MOJI S2
-http://kuchini.site:8080/F30140/f3de2280/298550
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", MOJI S3
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298550
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S1
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S2
-http://kuchini.site:8080/F30140/f3de2280/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SCTV S3
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162141
-
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S1
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/80292
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S2
-http://kuchini.site:8080/F30140/f3de2280/80292
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/38x2:688x434/x/photo/2020/06/07/1133037707.jpg" group-title="#🇲🇨LIGA KETEK1🇲🇨#", NET S3
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/80292
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S1
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S2
-http://kuchini.site:8080/F30140/f3de2280/298549
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", SPORTSTARS S3
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+############World Sports#################
+#EXTINF:-1 group-title="World Sports",ELEVEN SPORTS 1 4K
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
+#EXTINF:-1 group-title="World Sports",Astro SuperSport
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
+#EXTINF:-1 group-title="World Sports",Astro SuperSport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
+#EXTINF:-1 group-title="World Sports",Astro SuperSport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
+#EXTINF:-1 group-title="World Sports",Astro SuperSport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
+#EXTINF:-1 group-title="World Sports",Astro SuperSport 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+#EXTINF:-1 group-title="World Sports",Now Sports Premier League 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
+#EXTINF:-1 group-title="World Sports",Now Sports 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts
+#EXTINF:-1 group-title="World Sports",Now Sports 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts
+#EXTINF:-1 group-title="World Sports",Now Sports 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110667&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110666&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110665&extension=ts
+#EXTINF:-1 group-title="World Sports",ESPN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
+#EXTINF:-1 group-title="World Sports",ESPN 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45580&extension=ts
+#EXTINF:-1 group-title="World Sports",FS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45571&extension=ts
+#EXTINF:-1 group-title="World Sports",FS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45570&extension=ts
+#EXTINF:-1 group-title="World Sports",FOX SOCCER PLUS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45572&extension=ts
+#EXTINF:-1 group-title="World Sports",BT Sport 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts
+#EXTINF:-1 group-title="World Sports",BT Sport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts
+#EXTINF:-1 group-title="World Sports",BT Sport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts
+#EXTINF:-1 group-title="World Sports",BT Sport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts
+#EXTINF:-1 group-title="World Sports",Sky Sports Premier League
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts
+#EXTINF:-1 group-title="World Sports",Sky Sports Football
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
+#EXTINF:-1 group-title="World Sports",Sky Sports Main Event
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts
+#EXTINF:-1 group-title="World Sports",Sky Sports Mix
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts
+#EXTINF:-1 group-title="World Sports",Sky Sports Action
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=929003&extension=ts
+#EXTINF:-1 group-title="World Sports",Sky Sports Arena
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts
+#EXTINF:-1 group-title="World Sports",Sky Sports F1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
+#EXTINF:-1 group-title="World Sports",TSN 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177344&extension=ts
+#EXTINF:-1 group-title="World Sports",TSN 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177345&extension=ts
+#EXTINF:-1 group-title="World Sports",TSN 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177346&extension=ts
+#EXTINF:-1 group-title="World Sports",TSN 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904213&extension=ts
+#EXTINF:-1 group-title="World Sports",TSN 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904212&extension=ts
+#EXTINF:-1 group-title="World Sports",EUROSPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
+#EXTINF:-1 group-title="World Sports",EUROSPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
+#EXTINF:-1 group-title="World Sports",LALIGA TV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163611&extension=ts
+#EXTINF:-1 group-title="World Sports",VIAPLAY SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
+#EXTINF:-1 group-title="World Sports",VIAPLAY SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
+#EXTINF:-1 group-title="World Sports",EDGE SPORT
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1014266&extension=ts
+#EXTINF:-1 group-title="World Sports",SONY SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
+#EXTINF:-1 group-title="World Sports",SONY SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
+#EXTINF:-1 group-title="World Sports",SONY SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
+#EXTINF:-1 group-title="World Sports",STAR SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
+#EXTINF:-1 group-title="World Sports",STAR SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155966&extension=ts
+#EXTINF:-1 group-title="World Sports",STAR SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
+#EXTINF:-1 group-title="World Sports",STAR SPORTS SELECT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
+#EXTINF:-1 group-title="World Sports",STAR SPORTS SELECT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032529&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032528&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032527&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032526&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032525&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032524&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032523&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032522&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032521&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032520&extension=ts
+#EXTINF:-1 group-title="World Sports",Hub Premier 11
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032519&extension=ts
+#EXTINF:-1 group-title="World Sports",ELEVEN SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts
+#EXTINF:-1 group-title="World Sports",ELEVEN SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880456&extension=ts
+#EXTINF:-1 group-title="World Sports",ELEVEN SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880455&extension=ts
+#EXTINF:-1 group-title="World Sports",ELEVEN SPORTS 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880454&extension=ts
+#EXTINF:-1 group-title="World Sports",CANAL+ SPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts
+#EXTINF:-1 group-title="World Sports",CANAL+ SPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts
+#EXTINF:-1 group-title="World Sports",CANAL+ SPORT 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts
+#EXTINF:-1 group-title="World Sports",CANAL+ SPORT 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts
+#EXTINF:-1 group-title="World Sports",beIN SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941569
+#EXTINF:-1 group-title="World Sports",beIN SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941568
+#EXTINF:-1 group-title="World Sports",beIN SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941567
+#EXTINF:-1 group-title="World Sports",Hub Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941573
+#EXTINF:-1 group-title="World Sports",Hub Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941572
+#EXTINF:-1 group-title="World Sports",Hub Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941571
 
 ###################SPORT DUNIA ##############
 
