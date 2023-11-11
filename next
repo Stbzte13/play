@@ -1448,16 +1448,28 @@ https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b4
 https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1
 http://103.166.27.2:8112/play/a015
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 11
+http://103.30.87.238:443/wadmanet/norlec212/907
 #EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2
 http://103.166.27.2:8112/play/a016
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 22
+http://103.30.87.238:443/wadmanet/norlec212/890
 #EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 3
 https://livecdn-iptv001.rumsport.com/stream/757/stream/757_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 33
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 4
 https://livecdn-iptv001.rumsport.com/stream/756/stream/756_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 44
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 5
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59219
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 55
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/162141
 #EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 6
 http://aflaxtv.xyz:8080/14e17190/e84b5c0d6a/146068
+#EXTINF:0 tvg-logo="https://i.ibb.co/fYjBCyx/WC.jpg" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 66
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
 ---------------------------------------------SPORT----------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️CHAMPION LEAGUE◀️",CHAMPION 1
