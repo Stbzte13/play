@@ -89,19 +89,14 @@
 		{
 			"cid": 0,
 			"name": "ANTV",
-			"stream_url": "http://210.210.155.35/qwr9ew/s/s07/index.m3u8",
-			"stream_url_0": "http://210.210.155.37/qwr9ew/s/s07/index.m3u8",
-			"stream_url_1": "http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8",
-			"stream_url_2": "http://210.210.155.35:80/qwr9ew/s/s07/index.m3u8",
-			"stream_url_3": "http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8",
-			"stream_url_4": "https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd",
-			"stream_url_5": "https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
-			"stream_url_6": "https://anevia115.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
+			"stream_url_0": "http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf",
+			
 		},
 		{
 			"cid": 0,
 			"name": "Berita Satu",
-			"stream_url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8",
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd",
 			"stream_url_0": "http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162513",
 			"stream_url_1": "https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8",
 			"stream_url_2": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8",
@@ -183,8 +178,8 @@
 		{
 			"cid": 0,
 			"name": "Kompas TV",
-			"stream_url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8",
-			"stream_url_0": "http://210.210.155.35/session/ea74a9f0-ed0b-11ed-b1c0-b82a72d63267/qwr9ew/s/s104/01.m3u8",
+			"stream_url": "http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf ",
+			"stream_url_0": "https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
 			"stream_url_1": "http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8",
 			"stream_url_2": "http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8",
 			"stream_url_3": "https://kusnadipepenk.github.io/campeign/kompas.m3u8",
@@ -203,7 +198,7 @@
 		{
 			"cid": 0,
 			"name": "Metro TV",
-			"stream_url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8",
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd",
 			"stream_url_0": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd",
 			"stream_url_1": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
 			"stream_url_2": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8",
@@ -222,18 +217,18 @@
 		{
 			"cid": 0,
 			"name": "MNC News",
-			"stream_url": "http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165058",
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd",
 			"stream_url_0": "https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd",
 			"stream_url_1": "https://anevia115.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd"
 		},
 		{
 			"cid": 0,
 			"name": "MNCTV",
-			"stream_url": "https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8",
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
 			"stream_url_0": "http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165054",
 			"stream_url_1": "https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
 			"stream_url_2": "https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
-			"stream_url_3": "https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+			
 		},
 		{
 			"cid": 0,
@@ -265,7 +260,7 @@
 		{
 			"cid": 0,
 			"name": "Net TV",
-			"stream_url": "http://210.210.155.37/uq2663/h/h06/index.m3u8",
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
 			"stream_url_0": "https://kusnadipepenk.github.io/campeign/netv.m3u8",
 			"stream_url_1": "https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
 			"stream_url_2": "https://anevia115.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd"
@@ -292,7 +287,7 @@
 		{
 			"cid": 0,
 			"name": "RTV",
-			"stream_url": "http://210.210.155.37:80/dr9445/h/h10/index.m3u8",
+			"stream_url": "http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf ",
 			"stream_url_0": "https://kusnadipepenk.github.io/campeign/rtv.m3u8",
 			"stream_url_1": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8",
 			"stream_url_2": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd",
@@ -302,7 +297,7 @@
 		{
 			"cid": 0,
 			"name": "SCTV",
-			"stream_url": "http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8",
+			"stream_url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8",
 			"stream_url_0": "http://tvnid.x10.mx/vidio/master-1.m3u8",
 			"stream_url_1": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8",
 			"stream_url_2": "https://kusnadipepenk.github.io/campeign/sctv.m3u8",
@@ -315,7 +310,7 @@
 		{
 			"cid": 0,
 			"name": "Trans 7",
-			"stream_url_0": "https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048056",
+			"stream_url_0": "https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd",
 			"stream_url": "http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8",
 			"stream_url_1": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8",
 			"stream_url_2": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8",
@@ -328,7 +323,7 @@
 		{
 			"cid": 0,
 			"name": "Trans TV",
-			"stream_url": "http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8",
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd",
 			"stream_url_0": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8",
 			"stream_url_1": "https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd",
 			"stream_url_2": "https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd",
@@ -339,7 +334,7 @@
 		{
 			"cid": 0,
 			"name": "tvOne",
-			"stream_url_3": "https://ythls.onrender.com/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8",
+			"stream_url_3": "https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd",
 			"stream_url_0": "http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/296214",
 			"stream_url_1": "http://210.210.155.35:80/qwr9ew/s/s105/index.m3u8",
 			"stream_url_2": "http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8",
