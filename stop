@@ -37,9 +37,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1
-http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/162141
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2
-http://103.166.27.2:8112/play/a016
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 5
@@ -50,3 +50,222 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 7
 http://humiptv.live:8080/live/56565656/56565656/151171.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL", RCTI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", Net TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="NASIONAL", Rajawali TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="NASIONAL", OK TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683105&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="NASIONAL", Entertainment
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683188&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://cdn.okezone.com/underwood/revamp/2023/tv/desktop/img/share.jpeg" group-title="NASIONAL", OKEZONE TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683128&extension=ts&play_token=GVZS088tcf
+##########MOVIE############
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="NASIONAL", KIX
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683134&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="NASIONAL", Celestial Movies
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="NASIONAL", CCM
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683110&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="NASIONAL", TVN Movies
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683149&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="NASIONAL", TVN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="NASIONAL", Thrill
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="NASIONAL", CinemaWorld
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="NASIONAL", Hits
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683145&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="NASIONAL", Hits Movies
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="NASIONAL", Zee Bioskop
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683155&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="NASIONAL", My Cinema
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683152&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Cinema Asia
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683151&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Family Cinema 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683150&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="NASIONAL", Cinemachi Extra
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683161&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="NASIONAL", Cinemachi Max
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683173&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="NASIONAL", Cinemachi Kids
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/XING-KONG-919-523-new.png" group-title="NASIONAL", XingkongTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="NASIONAL", Rock Action
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="NASIONAL", Paramount Network
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="NASIONAL", AXN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="NASIONAL", FMN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683143&extension=ts&play_token=GVZS088tcf
+1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="NASIONAL", OUTDOOR
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&extension=ts&play_token=GVZS088tcf
+
+
+1 tvg-logo="____" group-title="MALAYSIA", BERNAMA NEWS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571307&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="MALAYSIA", Nickelodeon
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571283&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="MALAYSIA", TVN Movies
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571261&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="MALAYSIA", TVN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571260&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AURA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571257&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO RANIA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571256&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", RUGBYPASS TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571253&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="MALAYSIA", Hits
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571252&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CNA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571251&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ZEE TAMIL
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571250&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO CRICKET
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=1036490&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 1
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 3
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 4
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AWANI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571243&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO OASIS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571238&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO PREMIER
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712430&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", STAR VIJAY
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571235&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AOD 353
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571229&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Animal Planet
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571227&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AOD 351
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712426&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AXN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571222&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CRIME INVESTIGATION
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=57122=15&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CINEMAX
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571214&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CTI ASIA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571212&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Discovery SCI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571211&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Discovery 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571210&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", HITS MOVIES
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571200&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", IQIY
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571198&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", KIX
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571196&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ONE
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571193&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", SUN TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571190&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", TCL
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571189&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", TVB JADE
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571187&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", TVB NEWS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571188&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", WWE
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571184&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Celestial Classic 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571182&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", DISCOVERY ASIA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571181&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", FOOD NETWORK
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AFN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 AFC
+https://stream.ayas.ir/hls2/bein1.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 2 AFC
+https://stream.ayas.ir/hls2/bein2.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 3 AFC
+https://stream.ayas.ir/hls2/bein3.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 4 AFC
+https://stream.ayas.ir/hls2/bein4.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 5 AFC 
+https://stream.ayas.ir/hls2/bein5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31362_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31361_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31360_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31359_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45105_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45106_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45107_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45108_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 5
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45109_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 6
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45110_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38387_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 2
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38365_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 3
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
+
