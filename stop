@@ -36,15 +36,14 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197964
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
 
 
-#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="KUALIFIKASI PIALA DUNIA",INDONESIA VS PHILIPINE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 #EXTINF:-1 group-title="KUALIFIKASI PIALA DUNIA" tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png",INDONESIA VS PHILIPIN
 http://uhd3.one/play/live.php?mac=00:1A:79:00:18:8E&stream=926161&extension=ts
 #EXTINF:-1 group-title="KUALIFIKASI PIALA DUNIA" tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png",INDONESIA VS PHILIPIN
 http://uhd3.one/play/live.php?mac=00:1A:79:00:18:8E&stream=731814&extension=ts
-
+#EXTINF:-1 tvg-logo="https://media.vivagoal.com/2023/11/Filipina-vs-Indonesia.jpg" group-title="LIVE TIMNAS", SERVER 1
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161&extension=ts&play_token=bo2m2wHalz
+#EXTINF:-1 tvg-logo="https://media.vivagoal.com/2023/11/Filipina-vs-Indonesia.jpg" group-title="LIVE TIMNAS", SERVER 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=926161&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",LIVE ONLY
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩LIVE ONLY🚩",CHINA MASTER 1
@@ -59,22 +58,6 @@ http://libretv.my.id/play/channels/yt/hls/by-id/K-AR1J61ZDg/master.m3u8
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",live only
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",BEIN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",BEIN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
-https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dad26bed782d6991d64970ce3cb006da:2c8b3759afc68f6944089f5b4b7a1f50
-https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="FIFA WORLD CUP U17",LIVE ONLY
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
