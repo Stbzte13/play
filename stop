@@ -20,52 +20,65 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-**** MOVIES HBO *****
+**** MOVIES *****
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES HBO", HBO HD
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197972
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES HBO", Hbo Hits HD
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/196480
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES HBO", Hbo family HD
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197055
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES HBO", Hbo signature HD
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/221948
-#EXTINF:-1  tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png"  group-title="MOVIES HBO", Cinemax HD
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197964
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES HBO", WARNER TV
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO FHD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/517
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (M)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO (M)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/54
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO (ID)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="MOVIES",HBO Family
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="MOVIES",SHOWCASE MOVIES
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/419
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action HD" tvg-logo="https://i.ibb.co/CnCTbWF/1678072846613.png" group-title="MOVIES",Rock Action HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1045
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/thSvUUd.png" group-title="MOVIES",Paramount Network
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/417
+#EXTINF:-1 tvg-id="My Cinema" tvg-name="MyCinema" tvg-logo="https://i.imgur.com/v4HHF9i.png" group-title="MOVIES",MyCinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/414
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="MyCinema Asia" tvg-logo="https://i.imgur.com/R7Iuxbd.png" group-title="MOVIES",MyCinema Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/415
+#EXTINF:-1 tvg-id="My Family" tvg-name="MyFamily Cinema" tvg-logo="https://i.imgur.com/5AXoTOA.png" group-title="MOVIES",MyFamily Cinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/416
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="MOVIES",&Flix HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/141
+#EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="MOVIES",&Prive HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/63
+#EXTINF:-1 tvg-id="IMC" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="MOVIES",Star Movies (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/220
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="MOVIES",Star Movie Select
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/221
+#EXTINF:-1 tvg-id="IMC" tvg-name="SONY Pix (FHD)" tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES",SONY Pix (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/223
+#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="MOVIES",MNX HD (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/222
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="MOVIES",Cinemax
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="MOVIES",Galaxy
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/66
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="MOVIES",Galaxy Premium
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/67
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="MOVIES",HITS Movies
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/68
+#EXTINF:-1 tvg-id="Cinema World HD" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="MOVIES",CinemaWorld
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/69
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="MOVIES",Thrill
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/70
+#EXTINF:-1 tvg-id="IMC" tvg-name="IMC" tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",IMC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/71
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",Flik
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
 
 
-#EXTINF:-1 group-title="KUALIFIKASI PIALA DUNIA" tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png",INDONESIA VS PHILIPIN
-http://uhd3.one/play/live.php?mac=00:1A:79:00:18:8E&stream=926161&extension=ts
-#EXTINF:-1 group-title="KUALIFIKASI PIALA DUNIA" tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png",INDONESIA VS PHILIPIN
-http://uhd3.one/play/live.php?mac=00:1A:79:00:18:8E&stream=731814&extension=ts
-#EXTINF:-1 tvg-logo="https://media.vivagoal.com/2023/11/Filipina-vs-Indonesia.jpg" group-title="LIVE TIMNAS", SERVER 1
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161&extension=ts&play_token=bo2m2wHalz
-#EXTINF:-1 tvg-logo="https://media.vivagoal.com/2023/11/Filipina-vs-Indonesia.jpg" group-title="LIVE TIMNAS", SERVER 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=926161&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",LIVE ONLY
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩LIVE ONLY🚩",CHINA MASTER 1
-http://43.175.45.147/play.cbalive.weibisai.com/live/3430455774264061_AiSD.m3u8?txSecret=3c25c13fb0aa804b122fbca40c109383&txTime=655D3670&utm_medium=social&utm_source=heylink.me 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩LIVE ONLY🚩",CHINA MASTER 2
-http://43.175.45.147/play.cbalive.weibisai.com/live/3430455959714061_AiSD.m3u8?txSecret=0aa519d8df033180771e7ef95d55973e&txTime=655D3670&utm_medium=social&utm_source=heylink.me     
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩LIVE ONLY🚩",CHINA MASTER 3
-http://43.175.45.147/play.cbalive.weibisai.com/live/3430456083963061_AiSD.m3u8?txSecret=77e1233779cbd9e95d7f89099df7c33c&txTime=655D3670&utm_medium=social&utm_source=heylink.me
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",LIVE voly korea
-http://libretv.my.id/play/channels/yt/hls/by-id/K-AR1J61ZDg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",LIVE ONLY
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",live only
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="FIFA WORLD CUP U17",LIVE ONLY
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
 http://103.166.27.2:8112/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR2
-https://mantul.biz.id:443/ekos/748382/5286.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
@@ -243,28 +256,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&ex
 #EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AFN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 AFC
-https://stream.ayas.ir/hls2/bein1.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 2 AFC
-https://stream.ayas.ir/hls2/bein2.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 3 AFC
-https://stream.ayas.ir/hls2/bein3.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 4 AFC
-https://stream.ayas.ir/hls2/bein4.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 5 AFC 
-https://stream.ayas.ir/hls2/bein5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31362_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31361_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 3
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31360_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="DIGI SPORT", DIGI SPORT 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=31359_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="ELEVEN SPORT PT", ELEVEN SPORT 1
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=45105_&extension=ts
@@ -295,4 +288,24 @@ http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38381_&exten
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="TNT SPORT", TNT SPORT 4
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=38380_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",LIVE ONLY
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",LIVE voly korea
+http://libretv.my.id/play/channels/yt/hls/by-id/K-AR1J61ZDg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",LIVE ONLY
+https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="🚩LIVE ONLY🚩",live only
+https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg", group-title="FIFA WORLD CUP U17",LIVE ONLY
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 
+http://43.175.45.147/play.cbalive.weibisai.com/live/3430461968539061_AiSD.m3u8?txSecret=7ac755fd48595de06a506bc162089dd5&txTime=655FD970&utm_medium=social&utm_source=heylink.me  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 1
+https://obevcimanyd179314182.thapcam.link/live/may19/chunklist.m3u8   
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 2
+http://43.175.45.147/play.cbalive.weibisai.com/live/3430462103456061_AiSD.m3u8?txSecret=9c542a87696100375e3a12de5d0186be&txTime=655FD970&utm_medium=social&utm_source=heylink.me            
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 3
+http://43.175.45.147/play.cbalive.weibisai.com/live/3430462258454061_AiSD.m3u8?txSecret=4b898faa94d5cc5c73f4150e6ab0daf7&txTime=655FD970&utm_medium=social&utm_source=heylink.me
 
