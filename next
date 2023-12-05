@@ -99,21 +99,21 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="NEWS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="NEWS" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOObtq28XiWJ9YIhvuOD1kPWziLAi1sNZNHMTqTUH4mJEyHvYvp0w2fDm85RJcDitV_Q&usqp=CAU",SindoNews
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOObtq28XiWJ9YIhvuOD1kPWziLAi1sNZNHMTqTUH4mJEyHvYvp0w2fDm85RJcDitV_Q&usqp=CAU",Sindonews TV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJaFz0xab4Ggwuc6_ABaFgLykaSr6qXQcJpVnHKf7EiDBRfYvLRSI-V1iRx7Uq1q73A&usqp=CAU" group-title="NEWS",Kompas TV HD
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbSv_KNepnwHAKiTnn3OfW3kbGBBA1s8mVGEVEmCUiSdo0lcjojPiyFBUwSsBCF53gUw&usqp=CAU" group-title="NEWS", TVONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -121,11 +121,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="NEWS" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3O-CY3gMbbfPEZ-fcAIqjLB9TuC7D8XDcP3P7-wK_keTfvuTvOeI5vUyPhCR0yWdjA&usqp=CAU",iNews
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3O-CY3gMbbfPEZ-fcAIqjLB9TuC7D8XDcP3P7-wK_keTfvuTvOeI5vUyPhCR0yWdjA&usqp=CAU" group-title="NEWS",INEWS
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHkLedPPXc9DXwKvOpBfJR1rUVtiFtJtsvgk-_AGmsOS-YEsIIL-pywkl563jyDozK-k&usqp=CAU" group-title="NEWS",Jawa Pos TV
@@ -153,6 +151,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+---------------------------------------------------------------------------------------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO 
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="HBO GRUP",HBO Family 
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="HBO GRUP",HBO Signature
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HBO GRUP",HBO HITS 
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax 
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="HBO GRUP",WARNER TV
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 
 
@@ -237,7 +261,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title=",MOVIES MY CINEMA ASIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title=",MOVIES", MY CINEMA ASIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
@@ -540,7 +564,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692425&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83455&extension=ts&play_token=LeRid4FSfn
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX56tUjZjh2vnv6OpOID9WtZBsa7eXkoLlSWoLxqThk-yIJsTsG4Q2znM8JwVw37g07w&usqp=CAU" group-title="SKY SPORT", SKY SPORT ARENA IT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692435&extension=ts&play_token=s8alaxVAYe
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVswOJ4n5c52zLQFJS8ivdoSaWOoffuqrCn6sG7vqEEJ5cbZdr2iDRf3NBpF-NGPfcZrs&usqp=CAU" group-title="SKY SPORT", SKY SPORT CRICKET
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvnITuUZ4R0686105MAkHkMXvubg4FklH-1FVIMLd132fJnvl3fr2KX-bkfBdPCxevA&usqp=CAU" group-title="SKY SPORT", SKY SPORT CRICKET
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83454&extension=ts&play_token=ztJeMHyfna
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjfTzq4YiFXm1Ddj1RQs-JBiIAZjeFu8BBQ5gARSFhS1iyH2GYSIOY59ZMQMQQUCa8g&usqp=CAU" group-title="SKY SPORT", SKY SPORT F1 IT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
@@ -572,9 +596,6 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 4
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
