@@ -31,7 +31,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="NATIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png", NET 1.
+#EXTINF:-1 group-title="NATIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png", NET
 #http://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
@@ -83,7 +83,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 ------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m6g803F/tvri.png" group-title="NEWS", TVRI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4M5MK5QGypCfDPQqKxA8MyjTzkWjYUqEcFtRy64D0UeeQSxXGFVh6bb928Z2Z3rlN1LE&usqp=CAU" group-title="NEWS", TVRI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
@@ -115,7 +115,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJaFz0xab4Ggwuc6_ABaFgLykaSr6qXQcJpVnHKf7EiDBRfYvLRSI-V1iRx7Uq1q73A&usqp=CAU" group-title="NEWS",Kompas TV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbSv_KNepnwHAKiTnn3OfW3kbGBBA1s8mVGEVEmCUiSdo0lcjojPiyFBUwSsBCF53gUw&usqp=CAU" group-title="MNC VISION", TVONE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbSv_KNepnwHAKiTnn3OfW3kbGBBA1s8mVGEVEmCUiSdo0lcjojPiyFBUwSsBCF53gUw&usqp=CAU" group-title="NEWS", TVONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
@@ -237,7 +237,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title="MOVIES MY CINEMA ASIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title=",MOVIES MY CINEMA ASIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
@@ -534,13 +534,13 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692431&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83448&extension=ts&play_token=39xQduqNy6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu2V-S7OLFvvnvpPfZEgzOhfulhbFRcsX8wsuTZgvYTBOHZOEtwSBwYIB5LDV4LVP5w&usqp=CAU" group-title="SKY SPORT", SKY SPORT ACTION
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83456&extension=ts&play_token=qiFg78s00D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC6Ci_P9n5NCDQ09fLEHEsprDR6AXB2_j77J6A-A-ax_hO79mZnmN9QfhpG0a2Hw0lezM&usqp=CAU" group-title="SKY SPORT", SKY SPORT ACTION IT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu2V-S7OLFvvnvpPfZEgzOhfulhbFRcsX8wsuTZgvYTBOHZOEtwSBwYIB5LDV4LVP5w&usqp=CAU" group-title="SKY SPORT", SKY SPORT ACTION IT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692425&extension=ts&play_token=mfFAWKIb2Z
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX56tUjZjh2vnv6OpOID9WtZBsa7eXkoLlSWoLxqThk-yIJsTsG4Q2znM8JwVw37g07w&usqp=CAU" group-title="SKY SPORT", SKY SPORT ARENA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83455&extension=ts&play_token=LeRid4FSfn
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX56tUjZjh2vnv6OpOID9WtZBsa7eXkoLlSWoLxqThk-yIJsTsG4Q2znM8JwVw37g07w&usqp=CAU" group-title="SKY SPORT", SKY SPORT ARENA IT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692435&extension=ts&play_token=s8alaxVAYe
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_81Pfs-VWgI3tucdza3JpMvZi_oNRM02qi6tI332VV4B8-te5b8HgQ6wjeKBG9gFV1o&usqp=CAU" group-title="SKY SPORT", SKY SPORT CRICKET
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVswOJ4n5c52zLQFJS8ivdoSaWOoffuqrCn6sG7vqEEJ5cbZdr2iDRf3NBpF-NGPfcZrs&usqp=CAU" group-title="SKY SPORT", SKY SPORT CRICKET
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83454&extension=ts&play_token=ztJeMHyfna
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjfTzq4YiFXm1Ddj1RQs-JBiIAZjeFu8BBQ5gARSFhS1iyH2GYSIOY59ZMQMQQUCa8g&usqp=CAU" group-title="SKY SPORT", SKY SPORT F1 IT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
