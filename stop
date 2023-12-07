@@ -1,4 +1,62 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="INDONESIA",ID: Indosiar HD
+http://mykingtv.net:2082/amad1234/amad1234/5117
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="ID: Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="INDONESIA",ID: Citra Drama
+http://mykingtv.net:2082/amad1234/amad1234/5118
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="INDONESIA",ID: Citra Dangdut
+http://mykingtv.net:2082/amad1234/amad1234/5120
+#EXTINF:-1 tvg-id="" tvg-name="ID: Jitv" tvg-logo="https://images.useetv.com/logo_jitv_big.png" group-title="INDONESIA",ID: Jitv
+http://mykingtv.net:2082/amad1234/amad1234/5123
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ID: ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ID: ANTV
+http://mykingtv.net:2082/amad1234/amad1234/5124
+#EXTINF:-1 tvg-id="" tvg-name="ID: DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="INDONESIA",ID: DAAI TV
+http://mykingtv.net:2082/amad1234/amad1234/5126
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="ID: GTV" tvg-logo="https://i.ibb.co/bJz9v6Q/GTV-PPI-IP-TV.png" group-title="INDONESIA",ID: GTV
+http://mykingtv.net:2082/amad1234/amad1234/5127
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="ID: IDX Channel" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="INDONESIA",ID: IDX Channel
+http://mykingtv.net:2082/amad1234/amad1234/5129
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="ID: Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="INDONESIA",ID: Berita Satu
+http://mykingtv.net:2082/amad1234/amad1234/5131
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="ID: INews TV[A]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_inews_small.png" group-title="INDONESIA",ID: INews TV[A]
+http://mykingtv.net:2082/amad1234/amad1234/5132
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="ID: INews TV[B]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_inews_small.png" group-title="INDONESIA",ID: INews TV[B]
+http://mykingtv.net:2082/amad1234/amad1234/5133
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="ID: CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="INDONESIA",ID: CNN Indonesia
+http://mykingtv.net:2082/amad1234/amad1234/5135
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="ID: Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="INDONESIA",ID: Metro TV
+http://mykingtv.net:2082/amad1234/amad1234/5136
+#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="INDONESIA",ID: Kompas TV
+http://mykingtv.net:2082/amad1234/amad1234/5138
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.ibb.co/m0RK6Kw/MNCTV-PPI-IP-TV.png" group-title="INDONESIA",ID: MNC TV HD
+http://mykingtv.net:2082/amad1234/amad1234/5139
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="ID: Net TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA",ID: Net TV
+http://mykingtv.net:2082/amad1234/amad1234/5140
+#EXTINF:-1 tvg-id="JakTV.MACAN" tvg-name="ID: Jak TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="INDONESIA",ID: Jak TV
+http://mykingtv.net:2082/amad1234/amad1234/5142
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="ID: RCTI HD" tvg-logo="https://i.ibb.co/jZ3SKjM/RCTI-PPI-IP-TV.png" group-title="INDONESIA",ID: RCTI HD
+http://mykingtv.net:2082/amad1234/amad1234/5144
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",ID: SCTV
+http://mykingtv.net:2082/amad1234/amad1234/5147
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",ID: Trans 7
+http://mykingtv.net:2082/amad1234/amad1234/5149
+#EXTINF:-1 tvg-id="" tvg-name="ID: TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA",ID: TransTV
+http://mykingtv.net:2082/amad1234/amad1234/5151
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI[A]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI[A]
+http://mykingtv.net:2082/amad1234/amad1234/5154
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI[B]" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI[B]
+http://mykingtv.net:2082/amad1234/amad1234/5155
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI SPORT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI SPORT
+http://mykingtv.net:2082/amad1234/amad1234/5156
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI JAWA BARAT" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI JAWA BARAT
+http://mykingtv.net:2082/amad1234/amad1234/5158
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA",ID: TVRI NASIONAL
+http://mykingtv.net:2082/amad1234/amad1234/5159
+#EXTINF:-1 tvg-id="" tvg-name="ID: Magna Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png" group-title="INDONESIA",ID: Magna Tv
+http://mykingtv.net:2082/amad1234/amad1234/5162
+#EXTINF:-1 tvg-id="" tvg-name="ID: The Indonesia Channel" tvg-logo="https://www.theindonesiachannel.com/uploads/site/TIC_Logo_2019_Web2X.png" group-title="INDONESIA",ID: The Indonesia Channel
+http://mykingtv.net:2082/amad1234/amad1234/5163
+
+#EXTM3U
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.ibb.co/ZGZJjRS/news.jpg"group-title="NEWS",tvOne 
 http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
 #https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
@@ -101,47 +159,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDmtJTdr/z.png" group-title="Film",Zee Cinema
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeecinema.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
-#EXTINF:-1 tvg-id="Trans7.id"  tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL",TRANS7 2
-https://raw.githubusercontent.com/ferdinand303/Arum/main/TRANS%207%202.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
-#EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL",TRANSTV 2
-https://raw.githubusercontent.com/ferdinand303/Arum/main/Trans%20Tv%202.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="NASIONAL",SCTV HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="NASIONAL", SCTV Digital
-https://mantul.biz.id:443/ekos/748382/32.ts
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL", RCTI
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mnctv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", Net TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/nettv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="NASIONAL", Rajawali TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="NASIONAL", OK TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683105&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="NASIONAL", Entertainment
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683188&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://cdn.okezone.com/underwood/revamp/2023/tv/desktop/img/share.jpeg" group-title="NASIONAL", OKEZONE TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683128&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/moji.jpeg" group-title="NASIONAL",Moji
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 
 
