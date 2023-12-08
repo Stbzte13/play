@@ -7,8 +7,10 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/mnc.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV_LOKAL",MNC TV 
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV_LOKAL", INDOSIAR
-https://raw.githubusercontent.com/gala411/toettoet/main/Indo.md
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV_LOKAL",INDOSIAR
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV_LOKAL", INDOSIAR 2
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
@@ -33,6 +35,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV_LOKAL",Rajawali TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rtv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="TV_LOKAL",NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="TV_LOKAL",Moji
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -92,6 +99,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
 ##########MOVIE############
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0I70GE4thVAarzQ-EtZxbD0bZPu8t4GO34GcrffD6aqa4rolbAFgUvZfqMjyefOD6w&usqp=CAUg" group-title="Film",Bioskop Indonesia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwE9uqvgiau05FEGLH9KZa7c1CTZCaR3nIAOD3oJ6qKnP9Xg2FBV6a1InpFAkaEKQzPo&usqp=CAU" group-title="Film",DUNIA SINEMA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Film",Celestial Classic Movie
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/ccm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Celestial%20Movies%20SD-FirstMedia-Chl-204.jpg" group-title="Film",Celestial Movies
