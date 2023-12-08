@@ -7,19 +7,14 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/mnc.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV_LOKAL",MNC TV 
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV_LOKAL",INDOSIAR
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/indos.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV_LOKAL", INDOSIAR
+https://raw.githubusercontent.com/gala411/toettoet/main/Indo.md
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV_LOKAL", INDOSIAR 2
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV_LOKAL",SCTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="TV_LOKAL", GTV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf 
@@ -39,7 +34,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV_LOKAL",Rajawali TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rtv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="TV_LOKAL",Moji
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
 
 #EXTM3U
@@ -82,14 +80,10 @@ http://210.210.155.35/session/4eebc188-e30d-11ed-aeaf-b82a72d63267/x6bnqe/s/s13/
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-XUaPIUO6h5CvT98DezIN1G1t85PTlBp4AphDAWfJ0Ud_xXZRN4HpzFVcn89SYiM9ok&usqp=CAU" group-title="DAERAH",Jogja Istimewa TV 
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uvrP6MMkouz9HzTwouWez2yFHp9EXENcbgGrt3qAljD7ir9YzYY4kjMIhZUBB4OqFYs&usqp=CAU" group-title="DAERAH",Semarang TV
-http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmv66yVVh5VXYPgd-pSrQhDMWj4Dd_PCqSAmYZSuHaNgZYU4XA9sFLh9FDDQYvBjIY7O0&usqp=CAU",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rIOUmTCElD33KqdDXH7pgwAsz8oyqO7FpV6iPjgyMwKKMcGN6opUN1q9tCLbUms2fw0&usqp=CAU" group-title="DAERAH",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNsJ6hhG0zFi5-m6tHQH8iHq6zYJtOo6ZDS5LqoG947tRW8LwRrAk9O-DluzTEKy-pUG0&usqp=CAU" group-title="DAERAH",BALIKPAPAN TV
-http://63b2dc7196c38.streamlock.net:1935/ch10/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/JTV%20SD-FirstMedia-Chl-17.jpg" group-title="DAERAH",JTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
 
