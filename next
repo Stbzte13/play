@@ -80,6 +80,56 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+-------------------------------------------------------
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZNDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="TV_LOKAL",MNCTV
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/mnc.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV_LOKAL",MNC TV 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV_LOKAL",INDOSIAR
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="TV_LOKAL", INDOSIAR 2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV_LOKAL",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="TV_LOKAL", GTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png" group-title="TV_LOKAL",RCTI 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpeg" group-title="TV_LOKAL",Trans7
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%20TV%20SD-FirstMedia-Chl-9.jpg" group-title="TV_LOKAL",Trans TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/ANTV%20SD-FirstMedia-Chl-13.jpg" group-title="TV_LOKAL",ANTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV_LOKAL",Rajawali TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rtv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="TV_LOKAL",NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="TV_LOKAL",Moji
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+
 ------------------------------------------------------------------------------------------------------------------------
 
 
@@ -261,7 +311,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title=",MOVIES", MY CINEMA ASIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9cqUrtOyGrsbjfpUbp9cJF7NFUPR82fiN_nIm-TsbfRnr9dN7NzA_E3jXKXZ-qCE8uc&usqp=CAU" group-title="MOVIES", MY CINEMA ASIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
@@ -467,7 +517,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="SoccerChannel.id"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORT LOKAL",Soccer Channel-HD
-https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -608,13 +658,16 @@ http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
 https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA 1
-http://starshare.live:8080/live/Agness/Agness/6625.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
+https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/44473
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA 3
@@ -624,19 +677,29 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 1
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 2
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
- #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126919
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126946
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126935
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
@@ -656,39 +719,29 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701529950/ei/_
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI  1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 2
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/162138
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/162138
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 3
 http://103.166.27.2:8112/play/a016/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 4
-https://etslive-2-vidio-com.akamaized.net/exp=1701522426~acl=/hls-b/ingest_205_*/*~hmac=239eee654cb604a600670356923d7ced7fd36d298d18a8635043f49a790dbf21/hls-b/ingest_205_720p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 1
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=560513_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 2
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=751946_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 3
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=652929_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 4
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727387_&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-9.motorsport.com/images/amp/0rGgREq2/s1000/francesco-bagnaia-ducati-team-.jpg" group-title="#🏍️🏍️🏍️LIVE MOTOGP🏍️🏍️🏍️#", GP LIVE 5
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520554_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 1
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520553_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 2
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=603379_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 3
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=728722_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 4
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=768770_&extension=ts
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/A235/production/_98952514_newf1touse.jpg" group-title="#🏎️🏎️🏎️LIVE F1🏎️🏎️🏎️#", F1 LIVE 5
-http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=799064_&extension=ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8 
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩MOTOGP🚩",MOTO GP 3
+http://esuniptvstream.com:88/F9864567/CARPUHECVV1VMZ3/192420
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩"​, BWF 1
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
@@ -712,7 +765,7 @@ http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&exte
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️CHAMPION LEAGUE◀️",K+ SPORT 1
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️CHAMPION LEAGUE◀️",K+ SPORT 2
-http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/.m3u8
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️CHAMPION LEAGUE◀️",SONY TEN 1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️CHAMPION LEAGUE◀️",CHAMPION 1
@@ -748,10 +801,6 @@ http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45645
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 2 HD" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️", Match Football 2 HD
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45646
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="▶️SPORTS◀️",Usee Sport 1
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298577
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="▶️SPORTS◀️",Usee Sport 2
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298578
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48701Nw/usee-2.jpg" group-title="▶️SPORTS◀️", Usee Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -760,6 +809,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WWE_white_logo.svg/1200px-WWE_white_logo.svg.png",WWE
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571184&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png" group-title="▶️SPORTS◀️", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -791,12 +845,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="▶️SPORTS◀️",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="▶️SPORTS◀️", CCTV 5
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5+体育赛事" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/adcb103b82c037db23bb28d1194da7a7.png" group-title="▶️SPORTS◀️", CCTV 5+
+http://183.196.25.171:808/hls/78/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="▶️SPORTS◀️",,BEIN 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
@@ -1014,749 +1075,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="jsports4.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png",J Sports 4 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN HABER TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=27725_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 4K TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=32950_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 1 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=41811_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 2 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=41810_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 3 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=41809_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 4 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=1989_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 5 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=109251_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 1 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13599_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 2 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=15181_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TIVIBU SPORT 1 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13469_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TIVIBU SPORT 2 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13470_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TIVIBU SPORT 3 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13458_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SMART SPORT TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13471_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", A SPORT TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14824_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TRT SPORT 1 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14828_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TRT SPORT 2 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=46642_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TRT SPORT 3 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=68255_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TAY TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14836_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", S SPORT 1 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=29745_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", S SPORT 2 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=46640_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 1 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7774_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 2 TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7877_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", GALATASARAY TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7875_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FENERBAHCE TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7874_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TJK TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=8708_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", RUMBLE TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=135160_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FIFA ESPORT TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=125225_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", WWE TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=122560_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ALEX TOPROLL TV TR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=124333_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 1 NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=2735_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 2 NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=26_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 3 NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=27_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 4 NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=38_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ZIGGO SPORT SELECT NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=2343_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ZIGGO SPORT VOETBAL NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=23_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ZIGGO SPORT GOLF NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=24_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ZIGGO SPORT RACING NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=934_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EDGE SPORT NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65012_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EXTREME SPORTS NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=2351_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", HOURSE COUNTRY NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65011_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", WRESTLING TV NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=124327_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", WWE TV NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=122559_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FIFA ESPORT TV NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=125226_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", UFC POWER SLAP NL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=135161_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", PLAY SPORT 1 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65657_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", PLAY SPORT 2 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=66524_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", PLAY SPORT 3 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=48789_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 1 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=40242_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 2 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=40243_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 3 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65656_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN LEAGUE 1 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=66512_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN LEAGUE 2 BE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=66513_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOTORVISION DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16103_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT F1 DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=86526_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT TOP EVENT DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16103_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT PREMIER LEAGUE DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=106443_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT MIX DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=106445_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT GOLF DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=106444_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT F1 DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=86526_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT AUSTRIA 1
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=15926_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT AUSTRIA 2
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=77871_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT AUSTRIA 3
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=77872_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ORF SPORT AU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=28127_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT+1 AU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=28123_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DAZN 1 DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=37069_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DAZN 2 DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=37070_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DAZN 1 DE
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=37069_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT BUNDESLIGA 1
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=15944_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT BUNDESLIGA 2
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16083_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT BUNDESLIGA 3
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16085_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 1 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=158_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 2 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=159_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 3 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=1219_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 4 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=19331_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 5 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=19330_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 6 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=19329_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 7 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=19328_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 8 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=19327_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 9 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63135_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 10 FR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63136_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BLUE SPORT D1 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=24906_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BLUE SPORT D1 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=117794_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BLUE SPORT D2 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=117794_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT DIGITAL 1 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=247_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT DIGITAL 2 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=248_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT DIGITAL 3 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=249_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT DIGITAL 4 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=250_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT DIGITAL 5 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=6157_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT DIGITAL 6 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65014_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TRING SPORT NEWS AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=6155_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TRING SPORT 1 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=2332_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TRING SPORT 2 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=2333_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", K SPORT 1 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9833_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", K SPORT 2 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=8967_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", K SPORT 3 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9834_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ART SPORT 1 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65110_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ART SPORT 2 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65111_&extension=ts    
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ART SPORT 3 AL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65112_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 1 RS
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=534_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 2 RS
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=535_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 3 RS
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=536_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 4 RS
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=537_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 5 RS
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=401_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 1 HR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=404_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 2 HR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=218_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 3 HR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=405_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 4 HR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=406_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ARENA SPORTS 5 HR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=787_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORT 1 UK HD
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=213_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORTS 1 UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=11484_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORTS 2 UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=11485_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORTS 3 UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=11486_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORTS 4 UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=316_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORTS 5 EVENT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=109870_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORTS 6 EVENT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=109871_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TNT SPORTS 7 EVENT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=109872_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MUTV UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=11435_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", LFC TV UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=1785_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", RANGER FC TV UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=151735_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", RACING TV UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=11403_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 1 UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=985_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", POLSAT SPORTS EXTRA PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=22069_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", POLSAT SPORTS FIGHT PL 
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=22087_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", POLSAT SPORTS PL 
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=22086_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", POLSAT SPORTS PREMIUM 1 PL 
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63651_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", POLSAT SPORTS PREMIUM 2 PL 
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63652_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", POLSAT SPORTS PREMIUM 3 PL 
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63653_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", CANAL SPORTS+ PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=21909_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", CANAL SPORTS 2 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=21922_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", CANAL SPORTS 3 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63648_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", CANAL SPORTS 4 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63649_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", CANAL SPORTS 5 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=15616_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORTKLUB PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63658_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORTS 1 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=21904_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORTS 2 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=21903_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORTS 3 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=41766_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORTS 4 PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=41767_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", GOLF CHANEL PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63656_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FIGHT BOX PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63656_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FIGHTKLUB PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63655_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TVP SPORT PL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=21994_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", V SPORT 1 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13761_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", V SPORT PREMIUM SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61928_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", V SPORT GOLF SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61972_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", V SPORT GOLF 2 SW2
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=71470_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TV3 SPORT 1 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13764_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TV3 SPORT 2 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13765_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TV3 SPORT PLUS SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13763_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", C MORE SPORT GOLF SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65453_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", C MORE SPORT 1 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13749_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", C MORE SPORT 2 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64962_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", C MORE SPORT 3 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64963_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORTKANALEN SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65467_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TV2 SPORT 1 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=111201_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TV2 SPORT 2 SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=111202_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TV2 SPORT PREMIUM SW
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=111203_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT ACTION UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=11400_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT ARENA UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=28035_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT CRICKET UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=210_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT F1 UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=214_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT FOOTBALL UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=28034_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT GOLF UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=11401_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT MAIN EVENT UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7641_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT MIX UK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=22456_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18240_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 2 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18215_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FIGHT NETWORK US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=29513_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FOX SPORT SOCCER US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=19942_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FOX SPORT 1 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18206_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FOX SPORT 2 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18205_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NFL NETWORK US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=102466_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MBL NETWORK US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=24828_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NBA TV US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18174_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NBCSN US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=19941_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORTNET ONE US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18154_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TSN 1 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18139_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TSN 2 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18138_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TSN 3 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18137_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TSN 4 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18136_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TSN 5 US
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=18135_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", LALIGA TV ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=45121_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR LALIGA ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16510_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR LALIGA 1 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61974_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR LALIGA 2 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61975_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR LALIGA 3 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61976_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR LALIGA DE CAMPIONES ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16512_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR DEPORTES 1 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=560_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR F1 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16507_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR DAZN F1 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61977_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOVISTAR GOLF ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16509_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", REAL MADRID TV ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=845_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 1 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13173_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 2 ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16539_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", GOL PLAY ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=16514_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TELEDEPORTE ES
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13155_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 1 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=2739_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 2 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9407_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 1 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63300_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 2 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63301_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 3 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63302_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 4 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63303_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 5 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63304_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ELEVEN SPORT 6 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63305_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", KOMBAT SPORT PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63307_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BENFICA TV PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=1171_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", REAL MADRID TV PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63306_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORTING TV PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=2732_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NBA TV PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63308_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MOTORVISION TV PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63309_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 1 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=864_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 2 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13184_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 3 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=862_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 4 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=1021_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 5 PT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=1022_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT UNO IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=4395_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT 24 IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=296_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT F1 IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=31015_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT FOOTBALL IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64224_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT NBA IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64227_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT ARENA IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64226_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY SPORT MOTOGP IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=46094_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY CALCIO 1 IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=46477_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SKY CALCIO 2 IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=46478_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", RAI SPORT IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=4344_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 1 IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=4387_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 2 IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=60822_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SUPER TENNIS IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=4299_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT ITALIA IT
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=4301_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIGI SPORTS 1
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=802_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIGI SPORTS 2
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=803_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIGI SPORTS 3
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=804_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIGI SPORTS 4
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9180_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TELEKOM SPORTS 1
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=38422_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ORANGE SPORTS 1
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=162299_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ORANGE SPORTS 2
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65476_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ORANGE SPORTS 3
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=38424_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ORANGE SPORTS 4
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=38425_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 1 RO
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9178_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 2 RO
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9177_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FISHING HUNTING RO
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61556_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", RING TV BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9247_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", KHL TV BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61857_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NOVA SPORT BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=9250_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MAX SPORT 1 BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61815_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MAX SPORT 2 BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61816_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MAX SPORT 3 BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61817_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MAX SPORT 4 BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61818_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIEMA SPORT 1 BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14249_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIEMA SPORT 2 BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14250_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FIGHTBOX BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61800_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TRACE SPORT STARS BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61843_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", AUTO MOTOR SPORT BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61759_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORTAL BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61840_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", AUTOMOTO TV BG
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61760_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 1 PREMIUM AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=117446_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 2 PREMIUM AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=117447_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 3 PREMIUM AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=117448_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 1 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13241_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 2 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13242_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 3 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13243_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 4 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13244_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 5 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=1966_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 6 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13246_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 7 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13247_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 8 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13248_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 9 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13249_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 10 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13250_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 1 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=113579_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BEIN SPORT MAX 2 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=13250_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ABU DHABI SPORT 1
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63873_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ABU DHABI SPORT 1 ASIA
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63872_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", AL KASS SPORT 1 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=6992_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", AL KASS SPORT 2 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=6993_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", AL KASS SPORT 4 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63874_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", KSA SPORT 1 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63870_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", KSA SPORT 1 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=63871_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DUBAI RACING 1 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61170_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DUBAI RACING 2 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=61174_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DUBAI RACING 3 AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=6998_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NILE SPORT AR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7456_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", PTV SPORT IN
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14903_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", STAR SPORT 1 IN
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7892_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", STAR SPORT 2 IN
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=7893_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SONY TEN SPORT 1 IN
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14795_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SONY TEN SPORT 2 IN
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14794_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SONY TEN SPORT 3 IN
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14793_&extension=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", WILLOW CRICKET IN
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=14924_&extension=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", PTV SPORT PK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65510_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", TEN SPORT PK
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65516_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIGI SPORT 1 HU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=23626_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIGI SPORT 2 HU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=23632_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT 1 HU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=23635_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT 2 HU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=23584_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", M4 SPORT HU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=49326_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 1 HU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=147286_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", EUROSPORT 2 HU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=71492_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NOVA SPORT 1 CZ
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=23580_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", NOVA SPORT 2 CZ
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=23581_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 1 BR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64200_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 2 BR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64201_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SPORT TV 3 BR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64202_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FOX SPORT 1 BR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64184_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", FOX SPORT 2 BR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64185_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", BAND SPORT BR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=64180_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", PREMIERE SPORT 1 BR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65678_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ONE YES SPORT IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121864_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES ONE SPORT IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121864_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES SPORT 1 IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121793_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES SPORT 2 IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121792_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES SPORT 3 IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121866_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES SPORT 4 IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121790_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES SPORT 5 IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121789_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES SPORT 5 GOLD IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121868_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", YES SPORT 5 PLUS IL
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=121867_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN MX
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=24982_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 3 MX
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=24981_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 1 MX
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=24969_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", ESPN 2 MX
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=24970_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", WINSPORT CO
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=66833_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", DIRECT TV CO
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=66832_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", CBC SPORT AZ
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=27675_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SETANTA SPORT 1 UR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65353_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", SETANTA SPORT 2 UR
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65354_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MATCH ARENA RU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65413_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MATCH BOETS RU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65325_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MATCH IGRA RU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65415_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 1", MATCH CTPAHA RU
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:35:F7:D5&stream=65331_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT GOLF
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62970.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT TENNIS
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62971.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62972.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT RACING
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62973.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT SELECT
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62974.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA", ZIGGO SPORT VOETBAL
-http://xpro.one-iptv.com:25443/live/RAFTIAR2/1083083020242/62975.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA 2", TNT SPORT 1 UK SD
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=604006&extension=ts&play_token=9Tkwk6UcYs
