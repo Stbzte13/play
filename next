@@ -350,6 +350,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+========================================================================================================================================
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -390,6 +391,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="MOVIES",Cinemax
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -397,6 +399,68 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.zhetv.eu.org/drm
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png" group-title="MOVIES",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+-----------------------------FILM---------------------------------
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0I70GE4thVAarzQ-EtZxbD0bZPu8t4GO34GcrffD6aqa4rolbAFgUvZfqMjyefOD6w&usqp=CAUg" group-title="Film",Bioskop Indonesia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwE9uqvgiau05FEGLH9KZa7c1CTZCaR3nIAOD3oJ6qKnP9Xg2FBV6a1InpFAkaEKQzPo&usqp=CAU" group-title="Film",DUNIA SINEMA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Film",Celestial Classic Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/ccm.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Celestial%20Movies%20SD-FirstMedia-Chl-204.jpg" group-title="Film",Celestial Movies
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Film",CinemaWorld
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemaworld.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Film",Cinemax
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Citra%20Bioskop%20HD-FirstMedia-Chl-376.jpg" group-title="Film",Citra Bioskop
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJpN-XR3HvBJcXD9GFXdMxZn35QLB6ykDYPR-Vdao3-liWIkobcaPXugULL6LEM9EVWg&usqp=CAU" group-title="Film",Etv Bioskop
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJpN-XR3HvBJcXD9GFXdMxZn35QLB6ykDYPR-Vdao3-liWIkobcaPXugULL6LEM9EVWg&usqp=CAU" group-title="Film",Etv Bioskop 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJpN-XR3HvBJcXD9GFXdMxZn35QLB6ykDYPR-Vdao3-liWIkobcaPXugULL6LEM9EVWg&usqp=CAU" group-title="Film",Etv Bioskop 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJpN-XR3HvBJcXD9GFXdMxZn35QLB6ykDYPR-Vdao3-liWIkobcaPXugULL6LEM9EVWg&usqp=CAU" group-title="Film",Etv Bioskop 4
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6Pk41U_qeN8/Vrq1QgMhk9I/AAAAAAAAVqI/eElw8bnfEMw/s479-Ic42/Flik%252520TV.png" group-title="Film",FLIK
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/flik.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Galaxy%20HD-FirstMedia-Chl-381.jpg" group-title="Film",Galaxy
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/galaxy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Galaxy%20Premium%20HD-FirstMedia-Chl-382.jpg" group-title="Film",Galaxy Premium
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/galaxypremium.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg" group-title="Film",HBO
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Family%20SD-FirstMedia-Chl-288.jpg" group-title="Film",HBO Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Hits%20SD-FirstMedia-Chl-287.jpg" group-title="Film",HBO Hits
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg" group-title="Film",HBO Signature
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/hits-movies-325.jpg" group-title="Film",Hits Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/IMC%20SD-FirstMedia-Chl-80.jpg" group-title="Film",IMC
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/imc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/KIX%20HD-FirstMedia-Chl-336.jpg" group-title="Film",KIX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kix.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Film",My Cinema
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinema.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Cinema Asia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaasia.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAu1d-691gR7W1diCw6F45tGRFJ8sd1SIrRckJfZ2Ww2u-JDKdF6dGh2dSG1vS5FmgQJo&usqp=CAU" group-title="Film",,My Cinema Europe
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaeurope.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemafamily.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/BAM-Extreme-LOGO-B_RGB.png" group-title="Film",Rock Action
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Film",Thrill
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/thrill.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TvN%20Movies%20HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/Zee%20Bioskop%20SD-FirstMedia-Chl-161.jpg" group-title="Film",Zee Bioskop
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDmtJTdr/z.png" group-title="Film",Zee Cinema
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeecinema.m3u8
 
 ===========KNOWLEDGE==========
 
