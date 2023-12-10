@@ -123,581 +123,198 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------
 
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ctjCDQN/spotv-big-copy.png" group-title="INDIHOME", SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/spotv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVbzQ0x/spotv2-big-copy.png" group-title="INDIHOME", SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/spotv2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZddHp7/trans7-big-copy.png" group-title="INDIHOME", TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nxhhbnq/transtv-big-copy.png" group-title="INDIHOME", TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBVJShL/net-big-copy.png" group-title="INDIHOME", NET.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPZ5T9t/inews-big-copy.png" group-title="INDIHOME", iNEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/inews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0CG53pM/mncnews-big-copy.png" group-title="INDIHOME", SINDONEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7qCgx0/rtv-big-copy.png" group-title="INDIHOME", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="INDIHOME", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHRNF7k/idx-big-copy.png" group-title="INDIHOME", IDX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/idx/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWS9MtW/tvri-big-copy.png" group-title="INDIHOME", TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvri/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svczMYY/kompastv-big-copy.png" group-title="INDIHOME", KOMPAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89qXRtm/metrotv-big-copy.png" group-title="INDIHOME", METROTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BLMkGyz/prambors-big-copy.png" group-title="INDIHOME", PRAMBORS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/pramborstv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jh4VZM5/antara-big-copy.png" group-title="INDIHOME", ANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/antara/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qrGHh3t/tvone-big-copy.png" group-title="INDIHOME", TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0Q5n5F/seatoday-big-copy.png" group-title="INDIHOME", SEA TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/seatoday/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkTkdZg/indonesiana-big-copy.png" group-title="INDIHOME", INDONESIANA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/indonesiana/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQfw1GS/nusantaratv-big-copy.png" group-title="INDIHOME", NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/nusantaratv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KK3C10Z/jtv-big-copy.png" group-title="INDIHOME", JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/jtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxvNZQq/jaktv-big-copy.png" group-title="INDIHOME", JaK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/jaktv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNV4jmW/rri-big-copy.png" group-title="INDIHOME", RRI NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/rrinet/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4rDKB8/balitv-big-copy.png" group-title="INDIHOME", BALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/balitv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="INDIHOME", SERU CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
-######################################### DENSTV #########################################
-
-#EXTINF:-1 group-title="NASIONAL SD", MOJI SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MOJI HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", INDOSIAR SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", INDOSIAR HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", SCTV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", SCTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", METRO TV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", METRO TV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CELESTIAL MOVIES SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CELESTIAL MOVIES HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ROCK ENTERTAINMENT SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ROCK ENTERTAINMENT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVN MOVIES SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVN MOVIES HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVN SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVN HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", NHK WORLD SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", NHK WORLD HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ROCK ACTION SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ROCK ACTION HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", K+ SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", K+ HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", KIX SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", KIX HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", BNTV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", BNTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MAGNA SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MAGNA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", NET SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", NET HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVONE SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVONE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", RTV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", RTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", KARTUN SIS SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", KARTUN SIS HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CCTV 4 SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CCTV 4 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", PHOENIX SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h232/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", PHOENIX HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", RODJA TV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", RODJA TV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", KOMPAS SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", KOMPAS HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ANTV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ANTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TBN ASIA SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TBN ASIA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVRI SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVRI HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVRI SPORT SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h238/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVRI SPORT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CCM SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CCM HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", Thrill SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", Thrill HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MEKKAH LIVE SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MEKKAH LIVE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", M+ SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", M+ HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MADINAH LIVE SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MADINAH LIVE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", RTP SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", RTP HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVE SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h245/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TVE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ALJAZEERA ARAB SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", ALJAZEERA ARAB HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TV5 SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h247/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TV5 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h247/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CGTN SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h248/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CGTN HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h248/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MCE SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MCE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", HITS MOVIES SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", HITS MOVIES HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", HITS SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", HITS HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", FIGHT SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", FIGHT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", M SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", M HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TV 5 Style SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", TV 5 Style HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CINEMAWORLD SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", CINEMAWORLD HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MY KIDZ HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MY CINEMA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", DENS PLAY HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s101/live.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MY CINEMA ASIA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 group-title="NASIONAL SD", MY FAMILY CHANNEL HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHgW58G/musikindo-big-copy.png" group-title="INDIHOME", MUSIKINDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DAAI HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bLtS2v/daaitv-big-copy.png" group-title="INDIHOME", DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DENS SHOWBIZ HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-krgroup1-swiftservesd-1.dens.tv/s/s35/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xsv7TW8/atv-big-copy.png" group-title="INDIHOME", ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/atv/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DENS FOOD CHANNEL HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-krgroup1-swiftservesd-1.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="INDIHOME", MAXSTREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DEANS LEARNING HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-krgroup1-swiftservesd-1.dens.tv/s/s36/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="INDIHOME", NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/nhkworld/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DENS LIVE EVENT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7vB55bZ/useeprime-big-copy.png" group-title="INDIHOME", USEE PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/useeprime/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DENS Commerce HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rs2dN1W/indikids-big-copy.png" group-title="INDIHOME",  INDI KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DENS Korean HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxWPXfS/mykids-big-copy.png" group-title="INDIHOME",  My KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", BTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SrrSSSC/cctv4-big-copy.png" group-title="INDIHOME",  CCTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/cctv4/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DENS life Style HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBFSB5S/tvedukasi-big-copy.png" group-title="INDIHOME",  TV EDUKASI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/tvedukasi/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", ELSHINTA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yR0Trw/cgtn-big-copy.png" group-title="INDIHOME",  CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/cgtndocumentary/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", JAKTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPzHxNT/TRTworld-big-copy.png" group-title="INDIHOME",  TRT WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/trtworld/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", CREMA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h228/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVZFmN0/arirang-big-copy.png" group-title="INDIHOME",  ARIRANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/arirang/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", STINGRAY HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dM3901n/dwtv-big-copy.png" group-title="INDIHOME",  DWTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/dwtv/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", Deluxe Lounge HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHgQmQw/euronews-big-copy.png" group-title="INDIHOME",  EURO NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", Dance TV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g2PWvT/abc-big-copy.png" group-title="INDIHOME",  ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/abcaustralia/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", Motorvision HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fnhDcy/f24-big-copy.png" group-title="INDIHOME",  FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/france24/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", MotoR Racing HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h25/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8X9M4zh/CNA-big-copy.png" group-title="INDIHOME",  CHANNEL NEWS ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/newsasia/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", HORIZON SPORT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGWr22B/aljazeera-big-copy.png" group-title="INDIHOME",  AL JAZEERA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/aljazeera/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", DW-TV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s25/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmqddD/mycinema-big-copy.png" group-title="INDIHOME", MY CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", W-SPORT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgtbdHC/lifetime-big-copy.png" group-title="INDIHOME", LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", France 24 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="INDIHOME", MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", FREEDOM HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RLb6x/beritasatu-ver2-copy.png" group-title="INDIHOME", BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/beritasatu/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", WION HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DKS9LZC/moji-ocha-big-copy.png" group-title="INDIHOME", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL SD", TRT WORLD HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
-
-######################################### DENSTV #########################################
-
-#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="NASIONAL",TVONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
-#EXTINF:-1 group-title="Movies",TVN MOVIES
-https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
-
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",CELESTIAL MOVIES
-https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
-
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies",THRILL
-https://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
-
-#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Movies",MY CINEMA ASIA
-https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 group-title="Movies",Rock Action
-https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sxhqwbc/blueant.png" group-title="Movies",Rock Intertainment
-https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts=1660693686" group-title="Movies",Hits
-https://op-group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
-
-#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="Movies",MY CINEMA
-https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="Movies",MY FAMILY CHANNEL
-https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS
-https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", KIDS
-https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS
-https://op-group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg", HITS MOVIES
-https://op-group2-swiftservehd-1.dens.tv/h/h38/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg", ROCK ENTERTAINMENT
-https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK ACTION
-https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg", KIX
-https://op-group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg", K+
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg", TVN
-https://op-group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", TVN MOVIES
-https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg", CELESTIAL MOVIES
-https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg", CCM
-https://op-group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg", MY CINEMA ASIA
-https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", THRILL
-https://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502961_tvchannels_v1.jpg", CINEMA WORLD
-https://op-group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg", MY CINEMA
-https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", MY CIBEMA EUROPE
-https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg", MY FAMILY CHANNEL
-https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg", TV5 MONDE STYLE
-https://op-group2-swiftservehd-1.dens.tv/h/h121/02.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996802_tvchannels_v1.jpg", CREMA TV
-https://op-group1-swiftservehd-1.dens.tv/h/h228/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996801_tvchannels_v1.jpg", DANCE TV
-https://op-group1-swiftservesd-1.dens.tv/s/s21/03.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg", FIGHTS SPORT
-https://op-group2-swiftservehd-1.dens.tv/h/h05/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg", MOTOR+ VISION
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", MOTOR RACING
-https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", HORIZON SPORTS
-https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://www.dens.tv/images/channel-logo/123.jpg", W SPORT
-http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 --------------------------------------------------NEWS----------------------------------------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4M5MK5QGypCfDPQqKxA8MyjTzkWjYUqEcFtRy64D0UeeQSxXGFVh6bb928Z2Z3rlN1LE&usqp=CAU" group-title="NEWS", TVRI
