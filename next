@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/gala411/toettoet/main/SCTV.m3u8
 https://raw.githubusercontent.com/gala411/toettoet/main/GTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png" group-title="TV_LOKAL",RCTI 
-https://raw.githubusercontent.com/gala411/toettoet/main/RCTI.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/R.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpeg" group-title="TV_LOKAL",Trans7
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/gala411/toettoet/main/TRANSTV.m3u8
 https://raw.githubusercontent.com/gala411/toettoet/main/ANTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV_LOKAL",Rajawali TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rtv.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/RTV.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="TV_LOKAL",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -164,12 +164,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="NEWS", INEWS
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="NEWS", iNews
+http://vo01.mohdtv.com:8880/voay3911/pnrj82ba/60291
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHkLedPPXc9DXwKvOpBfJR1rUVtiFtJtsvgk-_AGmsOS-YEsIIL-pywkl563jyDozK-k&usqp=CAU" group-title="NEWS",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
