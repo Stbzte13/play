@@ -78,11 +78,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="NATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png",Bandung TV
-https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 
 --------------------------------------------------NEWS----------------------------------------
@@ -162,10 +157,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNN Indonesia
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png",CNBC Indonesia
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
@@ -596,13 +591,46 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png" group-title="MOVIES",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-<================ Korean Channels ===================>
+----------------------DAERAH---------------------------------
+#EXTINF:-1 tvg-id="LINGKARTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0vgSNTCMUekAdhSkfU6F7kcjJaj7Sw70rjX6iDjcQ3FRIiY2OLjWhp1YqByIQDWwD2g&usqp=CAU" group-title="DAERAH",LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KdULfuScMOhk7s2BDUswHOgPRPGQ6wVyMIzmRpZRzb-41I-ulY1ZkFt1-7S82KsL0Kc&usqp=CAU" group-title="DAERAH",Madu TV 
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9DGWWPLcKXhcGTOC27lo2DrU7yGj_ygz_FEMFC9odNh_9T8LJZk7b2m4FjiZpofJ6W4&usqp=CAU" group-title="DAERAH",DHOHO TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLVkc6c-DXtX_Sq_fUva9Z1KDtsCbGD5muYYT5fvmB2EKhYeLM_N7oZ9XZnZXoVJOkg8&usqp=CAU" group-title="DAERAH",Padang TV
+http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNcCpIOKDg2gpDtb6UnpEfoTfD28KEcdB2Le_D5qm50elK_fwH42HnFVEUkhf33E9PcA&usqp=CAU" group-title="DAERAH",Jak TV 
+http://210.210.155.35/session/4eebc188-e30d-11ed-aeaf-b82a72d63267/x6bnqe/s/s13/S1/mnf.m3u8
+#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKn_e_WohPBHtdh03N2K5S_u7zu-oReoP8V_I64BWjk4dotaJ62cIS7469bCIxWW4Sg&usqp=CAU" group-title="DAERAH",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-XUaPIUO6h5CvT98DezIN1G1t85PTlBp4AphDAWfJ0Ud_xXZRN4HpzFVcn89SYiM9ok&usqp=CAU" group-title="DAERAH",Jogja Istimewa TV 
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmv66yVVh5VXYPgd-pSrQhDMWj4Dd_PCqSAmYZSuHaNgZYU4XA9sFLh9FDDQYvBjIY7O0&usqp=CAU",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rIOUmTCElD33KqdDXH7pgwAsz8oyqO7FpV6iPjgyMwKKMcGN6opUN1q9tCLbUms2fw0&usqp=CAU" group-title="DAERAH",TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/JTV%20SD-FirstMedia-Chl-17.jpg" group-title="DAERAH",JTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",Kilisuci TV Kediri
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="DAERAH",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="DAERAH",Banten TV 
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="DAERAH",Balikapan TV 
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8vj5Z8OnkkoN2--DXl3_Z4HlHxS99fzIASPrjIF0My4_eIAyOcagv-iv_8kaThRYNofs&usqp=CAU" group-title="DAERAH",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id= "KPlus.sg" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2Q2TE-zd_aHU7Edsp61dqHjJfQPzMzJNDl88y2lTGYHKcLJdapFvsgGhKTDL1doZub4&usqp=CAU" group-title="Korean Channels",K+
-http://210.210.155.37/session/193aa22c-25f6-11ed-8260-83b5bb6e22c3/uq2663/h/h08/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png",Bandung TV
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.dens.tv/images/channel-logo/126.jpg" group-title="Korean Channels",NaDoo Korean
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=lite&chname=NaDooKorean
 
 ===========KNOWLEDGE==========
 
