@@ -15,13 +15,13 @@ https://raw.githubusercontent.com/gala411/toettoet/main/MNCTV.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="TV Nasional", NET. HD
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/80292
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png" group-title="TV Nasional",RCTI
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV Nasional",Rajawali TV
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196457
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional",SCTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
@@ -119,7 +119,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg" group-title="Film",AXN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Hiburan",Chinese Drama
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhDdsosEtIKmle8kFh4HwbskdgJ7YMvMicddXtevRAgJgTASAgZ5LcpiGzSLmBKsqrdA&usqp=CAU" group-title="Film",Chinese Drama
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/chinesedrama.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Citra%20Drama%20HD-FirstMedia-Chl-378.jpg" group-title="Film",Citra Drama
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
