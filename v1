@@ -1,0 +1,54 @@
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="TV Lokal",Bali TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/balitv
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.webp" group-title="TV Lokal",BTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/5-FAITH/DAAI%20TV%20SD-FirstMedia-Chl-27.jpg" group-title="TV Lokal",Daai
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/daai.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Garuda%20TV%20SD-FirstMedia-Chl-42.jpg" group-title="TV Lokal",Garuda TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
+#EXTINF:-1 group-title="TV Lokal",Indonesiana TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indonesianatv.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="TV Lokal",Jakarta Globe
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Jak%20TV%20SD-FirstMedia-Chl-62.jpg" group-title="TV Lokal",Jak TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
+#EXTINF:-1 group-title="TV Lokal",Jawa Post
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/JTV%20SD-FirstMedia-Chl-17.jpg" group-title="TV Lokal",JTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="TV Lokal",Magna Channel
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/magnatv.m3u8
+#EXTINF:-1 group-title="TV Lokal",MGN
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mgn.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/ANTV%20SD-FirstMedia-Chl-13.jpg" group-title="TV Nasional",ANTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/GTV%20SD-FirstMedia-Chl-53.jpg" group-title="TV Nasional",GTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV Nasional",Indosiar
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Kompas%20TV%20SD-FirstMedia-Chl-15.jpg" group-title="TV Nasional",Kompas TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Metro%20TV%20SD-FirstMedia-Chl-7.jpg" group-title="TV Nasional",Metro TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV Nasional",MNCTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/moji.jpeg" group-title="TV Nasional",Moji
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20SD-FirstMedia-Chl-5.jpg" group-title="TV Nasional",Net
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nettv.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="TV Nasional",Nusantara TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/ntv.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV Nasional",RCTI
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV Nasional",Rajawali TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional",SCTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpeg" group-title="TV Nasional",Trans7
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%20TV%20SD-FirstMedia-Chl-9.jpg" group-title="TV Nasional",Trans TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TV%20One%20SD-FirstMedia-Chl-14.jpg" group-title="TV Nasional",TV One
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/TVRI%20SD-FirstMedia-Chl-16.jpg" group-title="TV Nasional",TVRI
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvri.m3u8
