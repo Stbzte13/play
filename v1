@@ -1,54 +1,180 @@
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="TV Lokal",Bali TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/balitv
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.webp" group-title="TV Lokal",BTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/5-FAITH/DAAI%20TV%20SD-FirstMedia-Chl-27.jpg" group-title="TV Lokal",Daai
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/daai.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Garuda%20TV%20SD-FirstMedia-Chl-42.jpg" group-title="TV Lokal",Garuda TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
-#EXTINF:-1 group-title="TV Lokal",Indonesiana TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indonesianatv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="TV Lokal",Jakarta Globe
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Jak%20TV%20SD-FirstMedia-Chl-62.jpg" group-title="TV Lokal",Jak TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
-#EXTINF:-1 group-title="TV Lokal",Jawa Post
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/JTV%20SD-FirstMedia-Chl-17.jpg" group-title="TV Lokal",JTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="TV Lokal",Magna Channel
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/magnatv.m3u8
-#EXTINF:-1 group-title="TV Lokal",MGN
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mgn.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/ANTV%20SD-FirstMedia-Chl-13.jpg" group-title="TV Nasional",ANTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/GTV%20SD-FirstMedia-Chl-53.jpg" group-title="TV Nasional",GTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/gtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV Nasional",Indosiar
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Kompas%20TV%20SD-FirstMedia-Chl-15.jpg" group-title="TV Nasional",Kompas TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Metro%20TV%20SD-FirstMedia-Chl-7.jpg" group-title="TV Nasional",Metro TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="TV Nasional",MNCTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="TV Nasional",MNCTV
+https://raw.githubusercontent.com/gala411/toettoet/main/MNCTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/moji.jpeg" group-title="TV Nasional",Moji
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20SD-FirstMedia-Chl-5.jpg" group-title="TV Nasional",Net
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/nettv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="TV Nasional",Nusantara TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/ntv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV Nasional",RCTI
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="TV Nasional", NET. HD
+https://raw.githubusercontent.com/aufannada/streaming/main/nettv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png" group-title="TV Nasional",RCTI
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV Nasional",Rajawali TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional",SCTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpeg" group-title="TV Nasional",Trans7
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%20TV%20SD-FirstMedia-Chl-9.jpg" group-title="TV Nasional",Trans TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TV%20One%20SD-FirstMedia-Chl-14.jpg" group-title="TV Nasional",TV One
+
+##################################NEWS##############################
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TV%20One%20SD-FirstMedia-Chl-14.jpg" group-title="NEWS",TV One
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvone.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/TVRI%20SD-FirstMedia-Chl-16.jpg" group-title="TV Nasional",TVRI
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/TVRI%20SD-FirstMedia-Chl-16.jpg" group-title="NEWS",TVRI
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvri.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Metro%20TV%20SD-FirstMedia-Chl-7.jpg" group-title="NEWS",Metro TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Kompas%20TV%20SD-FirstMedia-Chl-15.jpg" group-title="NEWS",Kompas TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.webp" group-title="NEWS",BTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVRI%20SD-FirstMedia-Chl-16.jpg" group-title="NEWS",TVRI World
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvriworld.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: CNBC Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="NEWS", CNBC Indonesia
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/165062
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: CNN Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NEWS", CNN Indonesia
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/162137
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="NEWS", iNews
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157579
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Film",Bioskop Indonesia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Film",Celestial Classic Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/ccm.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Celestial%20Movies%20SD-FirstMedia-Chl-204.jpg" group-title="Film",Celestial Movies
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Film",CinemaWorld
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemaworld.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Film",Cinemax
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Citra%20Bioskop%20HD-FirstMedia-Chl-376.jpg" group-title="Film",Citra Bioskop
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop2.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop3.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Film",Etv Bioskop 4
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/etvbioskop4.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Film",FLIK
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/flik.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Galaxy%20HD-FirstMedia-Chl-381.jpg" group-title="Film",Galaxy
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/galaxy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Galaxy%20Premium%20HD-FirstMedia-Chl-382.jpg" group-title="Film",Galaxy Premium
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/galaxypremium.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg" group-title="Film",HBO
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Family%20SD-FirstMedia-Chl-288.jpg" group-title="Film",HBO Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Hits%20SD-FirstMedia-Chl-287.jpg" group-title="Film",HBO Hits
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg" group-title="Film",HBO Signature
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/hits-movies-325.jpg" group-title="Film",Hits Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/IMC%20SD-FirstMedia-Chl-80.jpg" group-title="Film",IMC
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/imc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/KIX%20HD-FirstMedia-Chl-336.jpg" group-title="Film",KIX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kix.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Film",My Cinema
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinema.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Cinema Asia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaasia.m3u8
+#EXTINF:-1 group-title="Film",My Cinema Europe
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaeurope.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemafamily.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/BAM-Extreme-LOGO-B_RGB.png" group-title="Film",Rock Action
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Film",Star Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/starmovie.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Film",Thrill
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/thrill.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TvN%20Movies%20HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
+#EXTINF:-1 group-title="Film",Zee Action
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeeaction.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/Zee%20Bioskop%20SD-FirstMedia-Chl-161.jpg" group-title="Film",Zee Bioskop
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDmtJTdr/z.png" group-title="Film",Zee Cinema
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeecinema.m3u8
+
+##########################OLAH RAGA ##########################
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Olah Raga",Astro Sport
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Olah Raga",Astro Sport 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Olah Raga",Astro Sport 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Olah Raga",Astro Sport 4
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Olah Raga",beIN Sports 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/beinsports1.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Olah Raga",beIN Sports 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/beinsports3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Eurosport%20SD-FirstMedia-Chl-151.jpg" group-title="Olah Raga",Eurosports
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Olah Raga",Fight Sport
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/fightsports.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/004c3db0072c16475396c8bc5757637e.png" group-title="Olah Raga",Golf
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/golf.m3u8
+#EXTINF:-1 group-title="Olah Raga",Motorvision TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/motorvisiontv.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Olah Raga",NBA TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nbatv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/Premier%20Sports%20SD-FirstMedia-Chl-156.jpg" group-title="Olah Raga",Premier Sport
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/premiersport.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="Olah Raga",Sportstars
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sportstars.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="Olah Raga",Sportstars 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sportstars2.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Olah Raga",Sportstars 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sportstars3.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV%20SD-FirstMedia-Chl-139.jpg" group-title="Olah Raga",SPOTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20SD-FirstMedia-Chl-140.jpg" group-title="Olah Raga",SPOTV 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Olah Raga",True Premier Football 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="Olah Raga",True Premier Football 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGXzw5v.png" group-title="Olah Raga",True Sports 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l11xhF2.png" group-title="Olah Raga",True Sports 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rsAqjtw.png" group-title="Olah Raga",True Sports 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bW79Nal.png" group-title="Olah Raga",True Sports 7
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports7.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Olah Raga",TVRI Sport
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvrisports.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Olah Raga",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="Olah Raga",Usee Sport 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/useesport1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="Olah Raga",Usee Sport 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/useesport2.m3u8
