@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvriworld.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: CNBC Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="NEWS", CNBC Indonesia
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/165062
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: CNN Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NEWS", CNN Indonesia
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/162137
@@ -65,9 +65,9 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157579
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Celestial%20Movies%20SD-FirstMedia-Chl-204.jpg" group-title="Film",Celestial Movies
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Film",CinemaWorld
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglvRXepXc4PgSM-CECYkwm-nE4hGZRONFn_1R-0bmkQ89zF-q62DJl84MAeFESMnSg0A&usqp=CAU" group-title="Film",CinemaWorld
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemaworld.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Film",Cinemax
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41nHqACHTalCn9Zbkq2w6Dz9AflOsmao1EP8okTI-ciXYr1CRAoH0aOAKRoxnRNa06p0&usqp=CAU" group-title="Film",Cinemax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Citra%20Bioskop%20HD-FirstMedia-Chl-376.jpg" group-title="Film",Citra Bioskop
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
@@ -99,23 +99,17 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/imc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/KIX%20HD-FirstMedia-Chl-336.jpg" group-title="Film",KIX
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kix.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Film",My Cinema
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinema.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Cinema Asia
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaasia.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwi7kiYJl54hEuDFsiAnkTQHezcReeuJyEemqq4gR3PA-5JNoPj9INIsSUUcScV9-pFyc&usqp=CAU" group-title="Film",My Cinema Europe
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaeurope.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Family
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemafamily.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/BAM-Extreme-LOGO-B_RGB.png" group-title="Film",Rock Action
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Film",Thrill
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTd2ghv6X1uawqmPFX1Ckg1ZKwRJpxh_NP9A5CAHj1k5CEn0YXnBtRtrZ2c0okI2pD9c&usqp=CAU" group-title="Film",Thrill
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/thrill.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TvN%20Movies%20HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Movie
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/Zee%20Bioskop%20SD-FirstMedia-Chl-161.jpg" group-title="Film",Zee Bioskop
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDmtJTdr/z.png" group-title="Film",Zee Cinema
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3bzlVgBXkCkCitK8NN3LVEYIKywnx5ZVFfzDCZnQZThBAjHllHefUX4I7dLar2VZP9g&usqp=CAU" group-title="Film",Zee Cinema
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg" group-title="Film",AXN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
@@ -170,3 +164,16 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports7.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvrisports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="Olah Raga",Usee Sport 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/useesport2.m3u8
+
+################################56@@@@@@@@@@@@@@@@@@@@@@@
+#EXTINF:-1 group-title="Olah Raga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_DFgJoL5A4OZgz-L9emWHHhNGJbWyMMVj4IfA4ZuAJern3_BqRd-w32n1l7Pl5ELOCw&usqp=CAU", Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCrDnx2-MUg9jltBObOakRNxbgLDKJN5l6lRjECf6r6gujSPjBQP3_lS7oW6YOBFzUGo&usqp=CAU" group-title="Olah Raga",Fight Sports
+http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 group-title="Olah Raga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKL60AE61KB3jf7R06m0aixQlxTBcO2zK3SkCQZGMfxpOBDLSsol8Mn290YO7netu4Sw&usqp=CAU", Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCKbuyGnlB0a0UQ9SNtwdUVPWGODzzJl_9YRCNcqX-AVzcRGzefVboL8Au_9pdr80bpzs&usqp=CAU" group-title="Olah Raga", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+##########################KIDS####################################
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbQ4GKsbHIpluY2G3XS2f7ltYilSncx-wnlpQ8B8UHCOuxKmZL7ORNLXzmDT1_gdJ1SU&usqp=CAU",HOREE
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hore.m3u8
