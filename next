@@ -112,10 +112,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="NEWS", iNews 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHkLedPPXc9DXwKvOpBfJR1rUVtiFtJtsvgk-_AGmsOS-YEsIIL-pywkl563jyDozK-k&usqp=CAU" group-title="NEWS",Jawa Pos TV
@@ -625,21 +625,6 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 
-################ISLAM#####################
-#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9DRxu1woIZdfaJ0LszfRusN9V12WglCZZ2HCGYxBIY2TPvoVQXnxAtgb8SWun_h4L-0&usqp=CAU" group-title="ISLAM",Meds TV
-https://kister.net/mpl/yt2m3u8?w=@MediaSunnahAceh
-#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJP3t1mdkSnNymozhrpaSOjvOhTnAxWJ58kzJsm3KcxrptoV0h3OF-MkH5U3MUsLyCfOY&usqp=CAU" group-title="ISLAM",Gazwah TV
-https://kister.net/mpl/yt2m3u8?w=@GazwahTVOfficial
-#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjzTosLzeMsELo_dbnR39UF1w7wNehnwWJ6Y7x3gA76RsufyQhQMRgUCaB9YtWQuB6hA&usqp=CAU" group-title="ISLAM",Rifqan TV
-https://kister.net/mpl/yt2m3u8?w=@RifqanTV
-#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_szNE3gCX6o37vuz_8gzGKtUGi87dgoE_P6EEAUAP-BHqZAz3kFSlzw-cNnjuAYfWC8&usqp=CAU" group-title="ISLAM",Marhaban TV
-https://kister.net/mpl/yt2m3u8?w=@MarhabanTVGarut
-#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRs31yS0gg1AyTv2fR-ld3JZ3Ay9REmiZaes5RFzMddQ9YA3z26LVQqpxtmpxhLEeU6s&usqp=CAU" group-title="ISLAM",Qur'an TV Mekah
-https://kister.net/mpl/yt2m3u8?w=@SaudiQuranTv
-#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOW90I-aBcXCPgeVMbBeaC0RBPYWwWBLePuMiLwBvxU2julB20E0vnw6kuhV60LDD0PZg&usqp=CAU" group-title="ISLAM",Sunnah TV Madinah
-https://kister.net/mpl/yt2m3u8?w=@SaudiSunnahTv
-#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-mvQV5l4y_kTS41Y8hEQYcy_qTF9I03vR-Ez9GLV7SYdHimD1SlxAIDITVMFEkcVcHVc&usqp=CAU" group-title="ISLAM",RTB Go Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 ===========KNOWLEDGE==========
 
