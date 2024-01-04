@@ -115,8 +115,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",iNews
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6941bpCJfWTNYU4TLyJYPrN_kWWaaktogct-l7eqsSmQedcWpnhgn4f76Rg-momZ4BA&usqp=CAU",iNews
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157579
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHkLedPPXc9DXwKvOpBfJR1rUVtiFtJtsvgk-_AGmsOS-YEsIIL-pywkl563jyDozK-k&usqp=CAU" group-title="NEWS",Jawa Pos TV
@@ -159,64 +159,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
 -----------------------------------------------------------------------------------------------------------
-=========================================== RELIGI ===========================================
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
-https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png",LIFE
-https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
-https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
-https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
-https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
-https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
-https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGI",Khazanah (T*) 
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
-----------------------------------------------------------------------------------------------------------------------------
 
 
 ======================================================================================================================================
@@ -863,7 +805,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 MOVIE
 --------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="🍿 MOVIES🍿 ",Bioskop Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="MOVIES",Bioskop Indonesia
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/264801
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jb6zL13/imc.png" group-title="MOVIES", INDONESIA MOVIE CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
