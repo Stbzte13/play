@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/ANTV%20SD-FirstMedia-Chl-13.jpg" group-title="TV Nasional",ANTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/ANTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/GTV%20SD-FirstMedia-Chl-53.jpg" group-title="TV Nasional",GTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/gtv.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/GTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV Nasional",Indosiar
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/INDOSIAR.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="TV Nasional",MNCTV
 https://raw.githubusercontent.com/gala411/toettoet/main/MNCTV.m3u8
@@ -58,9 +58,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/162137
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="NEWS", iNews
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157579
+https://raw.githubusercontent.com/gala411/toettoet/main/INEWS.m3u8
 ########################Movie#################################
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTH-HKnECRz5H7Fw38otxwc0K1pmMDcJaZadFVOtjV9tS3uJqyoEtBXiFy36ArhLneMbQ&usqp=CAU" group-title="Film",K PLUS
+https://raw.githubusercontent.com/gala411/toettoet/main/k%20%2B.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0I70GE4thVAarzQ-EtZxbD0bZPu8t4GO34GcrffD6aqa4rolbAFgUvZfqMjyefOD6w&usqp=CAU" group-title="Film",Bioskop Indonesia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Celestial%20Movies%20SD-FirstMedia-Chl-204.jpg" group-title="Film",Celestial Movies
