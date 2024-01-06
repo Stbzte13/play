@@ -61,7 +61,7 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/162137
 https://raw.githubusercontent.com/gala411/toettoet/main/INEWS.m3u8
 ########################Movie#################################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTH-HKnECRz5H7Fw38otxwc0K1pmMDcJaZadFVOtjV9tS3uJqyoEtBXiFy36ArhLneMbQ&usqp=CAU" group-title="Film",K PLUS
-https://raw.githubusercontent.com/gala411/toettoet/main/k%20%2B.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0I70GE4thVAarzQ-EtZxbD0bZPu8t4GO34GcrffD6aqa4rolbAFgUvZfqMjyefOD6w&usqp=CAU" group-title="Film",Bioskop Indonesia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Celestial%20Movies%20SD-FirstMedia-Chl-204.jpg" group-title="Film",Celestial Movies
@@ -121,6 +121,65 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Citra%20Entertainment%20HD-FirstMedia-Chl-379.jpg" group-title="Film",Citra Entertainment
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
 
+
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",soccer•channelvreee
+https://maper.info/SoccerChannel_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",inewsvreee
+https://maper.info/INEWS_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",spotvvreee
+https://maper.info/SPOTV_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",sportstar•2vreee
+https://maper.info/SportStart2_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",sportstar•3vreee
+https://maper.info/StarSport3_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Astro•Arena_vreee
+https://maper.info/Arena1_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Astro•Arena2_vreee
+https://maper.info/Arena2_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Okeyvreee
+https://maper.info/OKEY_shareext
+#EXTINF:-1  tvg-logo="" group-title="guaratizteve",Rtm_Sukanvreee
+https://maper.info/Rtm_Sukan_shareext
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",ANTV _freeee
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",INDOSIAR _freeee
+http://103.166.27.2:800/play/a016
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",MENTARI _freeee
+http://103.166.27.2:800/play/a018
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",MOJI _freeee
+http://103.166.27.2:800/play/a017
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",SCTV _freeee
+http://103.166.27.2:800/play/a015
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",TRANS 7 _freeee
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",TRANS TV _freeee
+http://103.166.27.2:800/play/a01b
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Aswaja TV_p_dec=auto
+http://103.166.27.2:800/play/a020
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",CNBC INDONESIA _freeee
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",CNN INDONESIA _freeee
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",DREAMWORKS_p_dec=auto
+http://103.166.27.2:800/play/a027
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Dangdut Tivi_p_dec=auto
+http://103.166.27.2:800/play/a01x
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Hadi TV_freee
+http://103.166.27.2:800/play/a01v
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",JTV_free
+http://103.166.27.2:800/play/a01s
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",KOMPASTV _freeee
+http://103.166.27.2:800/play/a019
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",LAGU TV_freeee
+http://103.166.27.2:800/play/a01u
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",Madu TV Nusantara_freeeee
+http://103.166.27.2:800/play/a01y
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",PARAMOUNT NETWORK_freeee
+http://103.166.27.2:800/play/a02a
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",RuaiTV_freeeeee
+http://103.166.27.2:800/play/a01w
+#EXTINF:-1  tvg-logo="" group-title="freeteveee",TV Tabalong_freeeeee
+http://103.166.27.2:800/play/a01z
 ================================================================================================================================
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
