@@ -712,6 +712,138 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi
 #KODIPROP:inputstream.adaptive.license_key=a5b643fdc1b2cb4684bd859f699dce2c:4605d2990f4b1d7c4049cdd83529f3a7
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
+########################FIRSTMEDIA##################################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ctjCDQN/spotv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", SPOTV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=spotv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVbzQ0x/spotv2-big-copy.png" group-title="🔥FIRSTMEDIA🔥", SPOTV 2
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=spotv2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZddHp7/trans7-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TRANS 7
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=transpitu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nxhhbnq/transtv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TRANSTV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=transtv 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxvNZQq/jaktv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", JAKTV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=jaktv  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KK3C10Z/jtv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", JTV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=jtv 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ANTV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=antv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svczMYY/kompastv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", KOMPASTV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=kompastv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RLb6x/beritasatu-ver2-copy.png" group-title="🔥FIRSTMEDIA🔥", BTV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=btv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHRNF7k/idx-big-copy.png" group-title="🔥FIRSTMEDIA🔥", IDX
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=idx
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWS9MtW/tvri-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TVRI
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=tvri
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chjchBd/paramount-big-copy.png" group-title="🔥FIRSTMEDIA🔥", PARAMOUNT
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=paramount
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1mKRCw/hitsmovie-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HITS MOVIE
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=hitsmovies
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4j704Cb/hits-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HITS
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=hits
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykYsB7t/zbioskop-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ZEE BIOSKOP
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=zeebioskop
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HCDVk91/horee-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HOREE
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=horee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yN8JZp9/cartoonnetwork-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CARTOON NETWORK
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cartoonnet 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6wL7yyh/dreamworks-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DREAMWORK
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=dreamwork
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG3LBPx/animax-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ANIMAX
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=animax  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/59NvsTM/cartoonito.png" group-title="🔥FIRSTMEDIA🔥", CARTOONITO
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cartoonito
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PCFz5qN/nickelodeon-big-copy.png" group-title="🔥FIRSTMEDIA🔥", NICKELODEON
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=nickelodeon 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qs3V3LX/nickjr-big-copy.png" group-title="🔥FIRSTMEDIA🔥", NICK JR
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=nickjr    
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jcr1sG8/animalplanet-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ANIMAL PLANET
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=anekasatwa
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PwksbHs/Disco-ASIA-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DISCOVERY ASIA
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=discoveryasia 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMTxZhX/Disco-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DISCOVERY CHANNEL
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=discoverychannel
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2FZNKZ0/cbioskop-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CITRA BIOSKOP
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cbioskop 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgJRgSF/cdangdut-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CITRA DANGDUT
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cdangdut
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ctkh3R7/centertain-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CITRA ENTERTAINMENT
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cent
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhbPN6h/tvn-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TVN
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=tvn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpCS1nf/gem-big-copy.png" group-title="🔥FIRSTMEDIA🔥", GEM
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=gem 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GHcpHdk/KBSworld.png" group-title="🔥FIRSTMEDIA🔥", KBS WORLD
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=kbsworld
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hC6sfF0/love-big-copy.png" group-title="🔥FIRSTMEDIA🔥", LOVE NATURE
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=lovenature
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6TBBkC/dmax-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DMAX
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=dmax 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHGFWY9/crimeinvest-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CRIME + INVESTIGATION
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=crimeinv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PD9M4rk/tlc-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TLC
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=tlc 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJC8mtb/MTVHD-big-copy.png" group-title="🔥FIRSTMEDIA🔥", MTV HD
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=mtvstage 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rbrYsTc/djazz.png" group-title="🔥FIRSTMEDIA🔥", DJAZZ
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=stdjazz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPKFDRK/trekker-big-copy.png" group-title="🔥FIRSTMEDIA🔥", GLOBAL TREKKER
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=globaltrekker  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPp2cDv/Shenzhen-TV-big-copy.png" group-title="🔥FIRSTMEDIA🔥", SHENZEN
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=shenzentv  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fht5F4J/afn-big-copy.png" group-title="🔥FIRSTMEDIA🔥", AFN
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=afn 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVZFmN0/arirang-big-copy.png" group-title="🔥FIRSTMEDIA🔥", AIRARANG
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=arirang 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnHwB5K/cnninter-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CNN WORLD
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cnnworld
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="🔥FIRSTMEDIA🔥", NHK WORLD
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=nhkworld 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yR0Trw/cgtn-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CGTN DOCUMENTARY
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cgtn
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SrrSSSC/cctv4-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CCTV4
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cctv4  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZB9DNb/Hunan-TV-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HUNAN TV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=hunantv 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FY6DY2/Jiangsu-TV-big-copy.png" group-title="🔥FIRSTMEDIA🔥", JIANGSU TV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=jingsutv 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSMhJBS/Dragontv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DRAGON TV
+https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=dragontv 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/nBVJShL/net-big-copy.png" group-title="INDIHOME", NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -1807,218 +1939,22 @@ https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
 ======================================================================================
+#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",Soccer Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ABS CBN" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",ABS CBN
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/144837
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",TV 3
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/158360
+#EXTINF:-1 tvg-id="" tvg-name="BBTV Channel 7" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆", Channel 7
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/23853
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Varzesh TV" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",IRIB Varzesh TV
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/5381
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",Astro Arena
+http://myteve.online:8080/F12232/f23d27c1/157485
 
-#EXTINF:-1 group-title="CVMTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD
-http://free.cvmtv.site/VTV1HD?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD
-http://free.cvmtv.site/VTV3HD?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
-http://free.cvmtv.site/vtv5?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="vtvcab1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/viegt.png",Vie Giải Trí
-http://free.cvmtv.site/vie?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="vtc1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1
-http://free.cvmtv.site/vtc1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="htv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/800px-HTV1.png",HTV1
-http://free.cvmtv.site/htv1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="htv4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HTV_Key_logo_2018_-_nay.png/1200px-HTV_Key_logo_2018_-_nay.png",HTV Key
-http://free.cvmtv.site/htv4?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="htv7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png",HTV7
-http://free.cvmtv.site/htv7?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="htv9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png",HTV9
-http://free.cvmtv.site/htv9?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
-http://free.cvmtv.site/htvtt?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="vinhlong1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png",THVL1
-http://free.cvmtv.site/thvl1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="vinhlong2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png",THVL2
-http://free.cvmtv.site/thvl1?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv1.png",BallViet 1
-http://free.cvmtv.site/BV1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv2.png",BallViet 2
-http://free.cvmtv.site/BV2?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+LC
-http://free.cvmtv.site/MLC?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
-http://free.cvmtv.site/canal1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
-http://free.cvmtv.site/canal2?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
-http://free.cvmtv.site/canal5?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
-http://free.cvmtv.site/canalpre?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
-http://free.cvmtv.site/E1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
-http://free.cvmtv.site/E2?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
-http://free.cvmtv.site/E3?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
-http://free.cvmtv.site/E4?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
-http://free.cvmtv.site/Match?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
-http://free.cvmtv.site/MF1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
-http://free.cvmtv.site/MF2?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
-http://free.cvmtv.site/MF3?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="matchpre" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
-http://free.cvmtv.site/MPre?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="matcharena" tvg-logo="https://new.matchtv.ru/assets/202311271424/images/channels/137.jpg",Match Arena
-http://free.cvmtv.site/MA?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://free.cvmtv.site/Polsat?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://free.cvmtv.site/PolsatE?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
-http://free.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
-http://free.cvmtv.site/TVPS?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://free.cvmtv.site/FS1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
-http://free.cvmtv.site/FS2?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
-http://free.cvmtv.site/ViaXtra?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
-http://free.cvmtv.site/BBC1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-http://free.cvmtv.site/BBC2?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV1
-http://free.cvmtv.site/ITV?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
-http://free.cvmtv.site/Channel4?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV2
-http://free.cvmtv.site/ITV2?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png",ITV3
-http://free.cvmtv.site/ITV3?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1920px-ITV4_logo_%282022%29.svg.png",ITV4
-http://free.cvmtv.site/ITV4?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1920px-CBBC_%282023%29.svg.png",CBBC
-http://free.cvmtv.site/CBBC?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png",S4C
-http://free.cvmtv.site/S4C?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",BBC RB 1
-http://free.cvmtv.site/BBC_RB?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-id="10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
-http://free.cvmtv.site/10HD?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="10bold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png",10 Bold
-http://free.cvmtv.site/10B?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
-http://free.cvmtv.site/7HD?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/1000px-Nine_Network_logo_%282008%29.svg.png",9HD
-http://free.cvmtv.site/9HD?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="9gem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
-http://free.cvmtv.site/9G?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="sbsone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/200px-ABC_TV_logo_2021.svg.png",ABCTV
-http://free.cvmtv.site/ABCA?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
-http://free.cvmtv.site/NBC?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
-http://free.cvmtv.site/CBS?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
-http://free.cvmtv.site/ABC?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
-http://free.cvmtv.site/FOX?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
-http://free.cvmtv.site/DasErste?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
-http://free.cvmtv.site/ZDF?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/1280px-RTL_Logo_2021.svg.png",RTL
-http://free.cvmtv.site/RTL?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png",TF1
-http://free.cvmtv.site/TF1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2
-http://free.cvmtv.site/Fr2?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png",France 3
-http://free.cvmtv.site/Fr3?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png",France 4
-http://free.cvmtv.site/Fr4?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png",France 5
-http://free.cvmtv.site/Fr5?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
-http://free.cvmtv.site/Fr6?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1200px-W9_2018.svg.png",W9
-http://free.cvmtv.site/W9?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1280px-Franceinfo.svg.png",franceinfo
-http://free.cvmtv.site/FI?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png",C News
-http://free.cvmtv.site/CNews?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
-http://free.cvmtv.site/CCTV1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
-http://free.cvmtv.site/CCTV3?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
-http://free.cvmtv.site/CCTV13?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
-http://free.cvmtv.site/CCTV5?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
-http://free.cvmtv.site/CCTV5p?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
-http://free.cvmtv.site/CCTV16?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/380ad685c0c1d5b2c902246b8d2df6d3f9b45e2837abcfe493075bbded597a31.png",Giang Tô TV
-http://free.cvmtv.site/JSTV?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/4120e89d3079d08aa17d382f69a2308ec70839b278367763c34a34666c75cb88.png",Hồ Nam TV
-http://free.cvmtv.site/hunan?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/a66c836bd98ba3e41a2e9a570d4b9c50dedc6839e9de333e2e78212ad505f37e.png",Chiết Giang TV
-http://free.cvmtv.site/ZJTV?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
-http://free.cvmtv.site/Viu?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
-http://free.cvmtv.site/Viu6?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
-http://free.cvmtv.site/Jade?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
-http://free.cvmtv.site/KBS1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://free.cvmtv.site/KBS2?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
-http://free.cvmtv.site/MBC?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://free.cvmtv.site/SBS?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-id="opt1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1000px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",OPT1
-http://free.cvmtv.site/OPT1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="rus1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/1000px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Russia 1
-http://free.cvmtv.site/R1?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-id="rus24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Russia 24
-http://free.cvmtv.site/R24?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",CH3
-http://free.cvmtv.site/CH3?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png",Thairath TV
-http://free.cvmtv.site/T32?token=live
-
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
-http://free.cvmtv.site/AlJa?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
-http://free.cvmtv.site/BBCN?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
-http://free.cvmtv.site/CNN?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a2/FRANCE_24.png/revision/latest?cb=20211127035535&path-prefix=vi",France 24 English
-http://free.cvmtv.site/F24?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
-http://free.cvmtv.site/SkyN?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg
-http://free.cvmtv.site/BB?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
-http://free.cvmtv.site/CNBC?token=live
-#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
-http://free.cvmtv.site/PhxInfo?token=live
 
 #######VOD######
 
