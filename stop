@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/gala411/toettoet/main/MNCTV.m3u8
 https://kusnadipepenk.github.io/campeign/indos.m3u8
 
 #EXTINF:-1 group-title="TV_LOKAL" tvg-logo="https://raw.githubusercontent.com/di2nk/iptv/main/SCTV.png", SCTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="TV_LOKAL", GTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/gtv.m3u8
@@ -29,8 +29,7 @@ https://raw.githubusercontent.com/gala411/toettoet/main/ANTV.m3u8
 
 #EXTINF:-1 group-title="TV_LOKAL" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rtv.m3u8
 
 #EXTINF:-1 group-title="TV_LOKAL" tvg-id="NET.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -42,139 +41,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
-FIRSTMEDIA
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ctjCDQN/spotv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", SPOTV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=spotv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVbzQ0x/spotv2-big-copy.png" group-title="🔥FIRSTMEDIA🔥", SPOTV 2
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=spotv2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZddHp7/trans7-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TRANS 7
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=transpitu
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nxhhbnq/transtv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TRANSTV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=transtv 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SxvNZQq/jaktv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", JAKTV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=jaktv  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KK3C10Z/jtv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", JTV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=jtv 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ANTV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=antv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svczMYY/kompastv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", KOMPASTV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=kompastv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7RLb6x/beritasatu-ver2-copy.png" group-title="🔥FIRSTMEDIA🔥", BTV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=btv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CHRNF7k/idx-big-copy.png" group-title="🔥FIRSTMEDIA🔥", IDX
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=idx
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DWS9MtW/tvri-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TVRI
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=tvri
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chjchBd/paramount-big-copy.png" group-title="🔥FIRSTMEDIA🔥", PARAMOUNT
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=paramount
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D1mKRCw/hitsmovie-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HITS MOVIE
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=hitsmovies
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4j704Cb/hits-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HITS
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=hits
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ykYsB7t/zbioskop-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ZEE BIOSKOP
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=zeebioskop
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HCDVk91/horee-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HOREE
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=horee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yN8JZp9/cartoonnetwork-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CARTOON NETWORK
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cartoonnet 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6wL7yyh/dreamworks-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DREAMWORK
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=dreamwork
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zG3LBPx/animax-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ANIMAX
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=animax  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/59NvsTM/cartoonito.png" group-title="🔥FIRSTMEDIA🔥", CARTOONITO
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cartoonito
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PCFz5qN/nickelodeon-big-copy.png" group-title="🔥FIRSTMEDIA🔥", NICKELODEON
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=nickelodeon 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qs3V3LX/nickjr-big-copy.png" group-title="🔥FIRSTMEDIA🔥", NICK JR
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=nickjr    
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jcr1sG8/animalplanet-big-copy.png" group-title="🔥FIRSTMEDIA🔥", ANIMAL PLANET
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=anekasatwa
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PwksbHs/Disco-ASIA-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DISCOVERY ASIA
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=discoveryasia 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMTxZhX/Disco-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DISCOVERY CHANNEL
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=discoverychannel
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2FZNKZ0/cbioskop-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CITRA BIOSKOP
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cbioskop 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LgJRgSF/cdangdut-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CITRA DANGDUT
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cdangdut
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ctkh3R7/centertain-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CITRA ENTERTAINMENT
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cent
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhbPN6h/tvn-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TVN
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=tvn
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpCS1nf/gem-big-copy.png" group-title="🔥FIRSTMEDIA🔥", GEM
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=gem 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GHcpHdk/KBSworld.png" group-title="🔥FIRSTMEDIA🔥", KBS WORLD
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=kbsworld
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hC6sfF0/love-big-copy.png" group-title="🔥FIRSTMEDIA🔥", LOVE NATURE
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=lovenature
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z6TBBkC/dmax-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DMAX
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=dmax 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHGFWY9/crimeinvest-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CRIME + INVESTIGATION
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=crimeinv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PD9M4rk/tlc-big-copy.png" group-title="🔥FIRSTMEDIA🔥", TLC
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=tlc 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FJC8mtb/MTVHD-big-copy.png" group-title="🔥FIRSTMEDIA🔥", MTV HD
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=mtvstage 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rbrYsTc/djazz.png" group-title="🔥FIRSTMEDIA🔥", DJAZZ
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=stdjazz
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPKFDRK/trekker-big-copy.png" group-title="🔥FIRSTMEDIA🔥", GLOBAL TREKKER
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=globaltrekker  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LPp2cDv/Shenzhen-TV-big-copy.png" group-title="🔥FIRSTMEDIA🔥", SHENZEN
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=shenzentv  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fht5F4J/afn-big-copy.png" group-title="🔥FIRSTMEDIA🔥", AFN
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=afn 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vVZFmN0/arirang-big-copy.png" group-title="🔥FIRSTMEDIA🔥", AIRARANG
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=arirang 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MnHwB5K/cnninter-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CNN WORLD
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cnnworld
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="🔥FIRSTMEDIA🔥", NHK WORLD
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=nhkworld 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2yR0Trw/cgtn-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CGTN DOCUMENTARY
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cgtn
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SrrSSSC/cctv4-big-copy.png" group-title="🔥FIRSTMEDIA🔥", CCTV4
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=cctv4  
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZB9DNb/Hunan-TV-big-copy.png" group-title="🔥FIRSTMEDIA🔥", HUNAN TV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=hunantv 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3FY6DY2/Jiangsu-TV-big-copy.png" group-title="🔥FIRSTMEDIA🔥", JIANGSU TV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=jingsutv 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSMhJBS/Dragontv-big-copy.png" group-title="🔥FIRSTMEDIA🔥", DRAGON TV
-https://pencarijanda.asalbaenlah.workers.dev/play.m3u8?id=dragontv 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ABS CBN" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",ABS CBN
