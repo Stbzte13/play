@@ -10,9 +10,6 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHVBwhJ/MNCTV.png" group-title="NATIONAL", MNCTV +
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHzKmTK/Gtv.png" group-title="NATIONAL",03. GTV
@@ -27,14 +24,14 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+http://103.113.116.150:25461/mtm1/12345/1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMYbzt9/trans-tv.png" group-title="NATIONAL",08. TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+http://103.113.116.150:25461/mtm1/12345/2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -58,10 +55,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W4Z8DC/indosiar.png" group-title="NATIONAL",09. INDOSIAR HD
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/indos.m3u8
-https://s.id/21ogW-indosiar|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.113.116.150:25461/mtm1/12345/3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="NATIONAL", 05.SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+http://103.113.116.150:25461/mtm1/12345/4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyLQBcW/Vision-Prime-2020.png" group-title="NATIONAL",10. VISION PRIME
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -771,7 +769,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8vHnb/Love-Nature-TV.png"group-title="INDIHOME",LOVE NATURE
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU"group-title="INDIHOME",CURIOSITY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gtbfwmd/CURIOSITY.png"group-title="INDIHOME",CURIOSITY
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/LPkrNHB/BEIN-1-ID.png" group-title="INDIHOME", BEIN 1 ID
@@ -852,10 +850,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 MOVIE
 --------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/80h0hCx/bioskopindonesia.png" group-title="MOVIES",Bioskop Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/7tnVGwj/bioskopindonesia.png" group-title="MOVIES",Bioskop Indonesia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="kplus.sg" tvg-logo="https://i.imgur.com/ZZGUuhE.png",K+ 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/j3vJT5m/flik.png" group-title="MOVIES",Flik
+http://103.113.116.150:25461/mtm1/12345/22
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="kplus.sg" tvg-logo="https://i.ibb.co/kxcjmyn/K.png",K+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr.dens.tv/h/h08/index.m3u8 
 
@@ -1016,26 +1017,28 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 -------HBO PREMIUM--------
 ##########################
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO PREMIUM", HBO Family Maxtream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0VgB04/HBO-Family-Maxtream.png" group-title="HBO PREMIUM", HBO Family Maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO PREMIUM", HBO Signature Maxtream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtwZFCt/HBO-Signature.png" group-title="HBO PREMIUM", HBO Signature Maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO PREMIUM", HBO Hits Maxtream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DK8wK4V/HBO-Hits.png" group-title="HBO PREMIUM", HBO Hits Maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO PREMIUM", HBO HD maxtream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWb7jWh/HBO.png" group-title="HBO PREMIUM", HBO HD maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/D1kNBdn/Cinemax.png" group-title="HBO PREMIUM",Cinemax 
+http://103.113.116.150:25461/mtm1/12345/20
 
 
 ----------------------DAERAH---------------------------------
@@ -1093,11 +1096,26 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/hZ1cpnF/Garuda-TV.png" group-title="DAERAH",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Jowo Channel" tvg-logo="https://i.ibb.co/pPy9DJg/jowo-tv.png group-title="DAERAH",Jowo Channel
 https://dik.si/EF75t-Jowo
 
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="Budaya TV" tvg-logo="https://i.ibb.co/1ntTs78/Budaya-TV.png" group-title="DAERAH",Budaya TV
 http://tvlive.my.id:25461/ab/ab/4
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/y5m9CzC/Logo-Timor-TV.png" group-title="DAERAH",Timor TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/q7V5G9m/sambas.png" group-title="DAERAH",Sambas TV
+https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/2FK39bm/singkawang.png" group-title="DAERAH",Singkawang TV
+https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w104533869.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/g4GgKMs/Bungo-TV.png" group-title="DAERAH",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 ################################################################################
 ======================================================================================================================================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPI_BXtrcxwXQsMzteu7b-DqxxWFBcBesn2w&usqp=CAU" group-title="CARTOONS", Transformers
