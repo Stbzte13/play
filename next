@@ -1099,8 +1099,8 @@ https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/hZ1cpnF/Garuda-TV.png" group-title="DAERAH",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Jowo Channel" tvg-logo="https://i.ibb.co/pPy9DJg/jowo-tv.png group-title="DAERAH",Jowo Channel
-https://dik.si/EF75t-Jowo
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.ibb.co/tQXPctp/Sakti-TV.png",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="Budaya TV" tvg-logo="https://i.ibb.co/1ntTs78/Budaya-TV.png" group-title="DAERAH",Budaya TV
 http://tvlive.my.id:25461/ab/ab/4
@@ -1116,6 +1116,9 @@ https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w1045338
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/g4GgKMs/Bungo-TV.png" group-title="DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.ibb.co/fNDPSX2/Arek-TV.png",Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 ################################################################################
 ======================================================================================================================================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPI_BXtrcxwXQsMzteu7b-DqxxWFBcBesn2w&usqp=CAU" group-title="CARTOONS", Transformers
@@ -1315,7 +1318,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.ibb.co/6Bb0rqM/SPOTV2.png" group-title="SPORT LOKAL",SpoTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORT LOKAL",Soccer Channel
+#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://i.ibb.co/tCCZ1B6/soccer.png" group-title="SPORT LOKAL",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
@@ -1324,7 +1327,7 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="FightSports"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORT LOKAL",Fight Sports
+#EXTINF:-1 tvg-id="FightSports"  tvg-logo="https://i.ibb.co/QM0zDZ0/figth-sport.png" group-title="SPORT LOKAL",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1375,8 +1378,13 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
 https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
-#EXTINF:-1 group-title="SPORT LOKAL" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png",FIFA+ 
+#EXTINF:-1 group-title="SPORT LOKAL" tvg-id="" tvg-logo="https://i.ibb.co/pLV72MQ/FIFA.png",FIFA+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT LOKAL" tvg-id="" tvg-logo="https://i.ibb.co/nBZTVy8/M.png",M+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
+
 ---------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
