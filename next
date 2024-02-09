@@ -1110,7 +1110,7 @@ https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w1045338
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/g4GgKMs/Bungo-TV.png" group-title="DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://ibb.co/dK918SM",BADAR TV
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.ibb.co/7yc8sHC/badar-tv.png",BADAR TV
 https://e1.siar.us/badartv/live/chunks.m3u8
 ################################################################################
 ======================================================================================================================================
