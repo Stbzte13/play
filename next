@@ -46,7 +46,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/antv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W4Z8DC/indosiar.png" group-title="NATIONAL",09. INDOSIAR HD
 http://103.113.116.150:25461/mtm1/12345/3
@@ -105,7 +105,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvone
 
 #EXTINF:-1 group-title="NEWS" tvg-id="iNews.id" tvg-logo="https://i.ibb.co/47DLDyK/1-inews-tv.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1683,6 +1683,7 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extensi
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
 
 ------------------------------------------------------liga eropa-------------------------------------------------------------
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1758,7 +1759,6 @@ http://14560544302735283.ofd0107.xyz:80/play/birah812L/birahM62/735283.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
 http://14560544302751451.ofd0107.xyz:80/play/birah812L/birahM62/751451.ts
 
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
 http://103.113.116.150:25461/mtm1/12345/3
 
@@ -1776,7 +1776,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 3
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SBS Sports" tvg-language="Korean" tvg-logo="https://i.imgur.com/7ucbMa9.jpg" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="voly",SBS Sports
+http://112.187.218.162:9981/stream/channelid/15
 
 ########---EVENT GF & F1---#######
 
@@ -2184,64 +2185,6 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 ======================================================================================
 
 ##############################################################################
-#####ASIA CUP####
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", server 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
-https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", server 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
-https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV4 Fotboll" tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", Server 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
-https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", Server 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
-
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", Server 5
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
-
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", Server 6 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", Server 7
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/exNtgUs.png" group-title="Asia Cup", Server 8
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", INDONESIA OPEN 1
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480.m3u8?title=8162326&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court1HB&ccode=live05030101&expire=21600&psid=1FCF01FCD397442252A70B0D8E1F0149&ups_client_netip=180.241.47.237&ups_ts=1705978600&ups_userid=0&utid=defaultCnaLive20180425&vid=8162326_8096782&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb480&vkey=B492522a7e7c126c4307ba9fa220f5be9&cug=10&t=18f4bd9b7c3ca76&rid=200000000D493571D6BC83F299CE76BB9EFE35AE00000000
-     
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆",INDONESIA OPEN 2
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480.m3u8?title=8162328&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court2HB&ccode=live05030101&expire=21600&psid=92577955917586C2BC8AB0E0DC94DA7C&ups_client_netip=180.241.47.237&ups_ts=1705978721&ups_userid=0&utid=defaultCnaLive20180425&vid=8162328_8096784&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb480&vkey=B55413b900844d774fb18e61fd1521cf4&cug=10&t=15ba9f59c50bc06&rid=20000000A8455A84E0880D9694CB233EB33C9C4200000000   
-       
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆",INDONESIA OPEN 3
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8162329&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=BD8F7CEA1C096FF87AA47ACF1653A339&ups_client_netip=180.241.47.237&ups_ts=1705977950&ups_userid=0&utid=defaultCnaLive20180425&vid=8162329_8096785&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=B5817a96e509b490840ae3651ebde1a45&cug=10&t=1236b3b000ba1eb&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
- 
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", bwf
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", Bulutangkis
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 =========================================== KSA SPORTS ===========================================
 
