@@ -40,13 +40,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+http://103.113.116.150:25461/mtm1/12345/14
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k0B9GJf/antv.png" group-title="NATIONAL", 06.ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/antv
+http://103.113.116.150:25461/mtm1/12345/10
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W4Z8DC/indosiar.png" group-title="NATIONAL",09. INDOSIAR HD
 http://103.113.116.150:25461/mtm1/12345/3
@@ -105,7 +105,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/tvone
+http://103.113.116.150:25461/mtm1/12345/9
 
 #EXTINF:-1 group-title="NEWS" tvg-id="iNews.id" tvg-logo="https://i.ibb.co/47DLDyK/1-inews-tv.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1550,6 +1550,9 @@ https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="SPORT LOKAL", MOJI (Htv)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://s.id/1YseN
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MgwwLS1/OPTUS-SPORT.png" group-title="SPORT LOKAL",OPTUS SPORT
+http://103.113.116.150:25461/mtm1/12345/54
 ---------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
