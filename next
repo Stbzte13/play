@@ -20,39 +20,45 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-http://103.113.116.150:25461/mtm1/12345/1
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1wQZjD/trans-7-tv.png" group-title="NATIONAL", Trans 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMYbzt9/trans-tv.png" group-title="NATIONAL",08. TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 http://103.113.116.150:25461/mtm1/12345/2
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="NATIONAL" tvg-logo="https://i.ibb.co/YQHJCTv/Net-Tv.png",04. NET
-#http://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQHJCTv/Net-Tv.png" group-title="NATIONAL", NET. HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhXmTjv/rtv.png" group-title="NATIONAL",13. RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-http://103.113.116.150:25461/mtm1/12345/14
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k0B9GJf/antv.png" group-title="NATIONAL", 06.ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-http://103.113.116.150:25461/mtm1/12345/10
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W4Z8DC/indosiar.png" group-title="NATIONAL",09. INDOSIAR HD
-http://103.113.116.150:25461/mtm1/12345/3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W4Z8DC/indosiar.png" group-title="NATIONAL"catchup="", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="NATIONAL", 05.SCTV HD
-http://103.113.116.150:25461/mtm1/12345/4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="NATIONAL"catchup="", SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyLQBcW/Vision-Prime-2020.png" group-title="NATIONAL",10. VISION PRIME
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -92,9 +98,9 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/0y0rX5s/sido-news.png",Sindonews TV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/0y0rX5s/sido-news.png",SindoNews
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t4f9HYy/kompas-tv.png" group-title="NEWS", Kompas TV
@@ -105,7 +111,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-http://103.113.116.150:25461/mtm1/12345/9
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-id="iNews.id" tvg-logo="https://i.ibb.co/47DLDyK/1-inews-tv.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1013,25 +1019,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0VgB04/HBO-Family-Maxtream.png" group-title="HBO PREMIUM", HBO Family Maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+https://link.zozotv.xyz:443/rozila969/abc12345/98
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtwZFCt/HBO-Signature.png" group-title="HBO PREMIUM", HBO Signature Maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+https://link.zozotv.xyz:443/rozila969/abc12345/99
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DK8wK4V/HBO-Hits.png" group-title="HBO PREMIUM", HBO Hits Maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+https://link.zozotv.xyz:443/rozila969/abc12345/97
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XWb7jWh/HBO.png" group-title="HBO PREMIUM", HBO HD maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+https://link.zozotv.xyz:443/rozila969/abc12345/693
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/D1kNBdn/Cinemax.png" group-title="HBO PREMIUM",Cinemax 
-http://103.113.116.150:25461/mtm1/12345/20
+https://link.zozotv.xyz:443/rozila969/abc12345/107
 
 
 ----------------------DAERAH---------------------------------
