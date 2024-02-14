@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/gala411/toettoet/main/ANTV.m3u8
 https://raw.githubusercontent.com/gala411/toettoet/main/GTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV Nasional",Indosiar
-https://raw.githubusercontent.com/gala411/toettoet/main/INDOSIAR.m3u8
+http://103.113.116.150:25461/mtm1/12345/3
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="TV Nasional",MNCTV
 https://raw.githubusercontent.com/gala411/toettoet/main/MNCTV.m3u8
@@ -15,22 +15,22 @@ https://raw.githubusercontent.com/gala411/toettoet/main/MNCTV.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="TV Nasional", NET. HD
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/80292
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png" group-title="TV Nasional",RCTI
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/R.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Rajawali%20TV%20SD-FirstMedia-Chl-35.jpg" group-title="TV Nasional",Rajawali TV
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196457
+http://103.113.116.150:25461/mtm1/12345/14
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV Nasional",SCTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+http://103.113.116.150:25461/mtm1/12345/4
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpeg" group-title="TV Nasional",Trans7
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+http://103.113.116.150:25461/mtm1/12345/1
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Trans%20TV%20SD-FirstMedia-Chl-9.jpg" group-title="TV Nasional",Trans TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+http://103.113.116.150:25461/mtm1/12345/2
 
 ##################################NEWS##############################
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TV%20One%20SD-FirstMedia-Chl-14.jpg" group-title="NEWS",TV One
