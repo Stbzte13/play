@@ -1,0 +1,135 @@
+==================================================================================================================================== 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="🔹 KNOWLEDGE🔹 ", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="🔹 KNOWLEDGE🔹 ", Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="🔹 KNOWLEDGE🔹 ", XPLORE
+https://xplore-roku.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="🔹 KNOWLEDGE🔹 ", INSIGHT
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAixj-Cg_3Ad8xIAuW9jN5ztcFrssfJasgQ&usqp=CAU" group-title="🔹 KNOWLEDGE🔹 ", Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="🔹 KNOWLEDGE🔹 ", Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="🔹 KNOWLEDGE🔹 ", Animal Planet
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="🔹 KNOWLEDGE🔹 ", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="🔹 KNOWLEDGE🔹 ", Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="🔹 KNOWLEDGE🔹 ", Discovery Channel
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="🔹 KNOWLEDGE🔹 ", Discovery Turbo
+https://kusnadipepenk.github.io/ntn/disturbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="🔹 KNOWLEDGE🔹 ", Discovery Science
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic Wild
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic Wild
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="🔹 KNOWLEDGE🔹 ",Discovery Channel
+https://link.zozotv.xyz:443/rozila969/abc12345/124
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="🔹 KNOWLEDGE🔹 ",Discovery Asia
+https://link.zozotv.xyz:443/rozila969/abc12345/125
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="🔹 KNOWLEDGE🔹 ",Animal Planet
+https://link.zozotv.xyz:443/rozila969/abc12345/123
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="🔹 KNOWLEDGE🔹 ",Love Nature
+https://link.zozotv.xyz:443/rozila969/abc12345/116
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="🔹 KNOWLEDGE🔹 ",BBC Earth
+https://link.zozotv.xyz:443/rozila969/abc12345/117
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="🔹 KNOWLEDGE🔹 ",DMAX
+https://link.zozotv.xyz:443/rozila969/abc12345/118
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="🔹 KNOWLEDGE🔹 ",History
+https://link.zozotv.xyz:443/rozila969/abc12345/119
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="🔹 KNOWLEDGE🔹 ",AFC
+https://link.zozotv.xyz:443/rozila969/abc12345/127
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="🔹 KNOWLEDGE🔹 ",TLC
+https://link.zozotv.xyz:443/rozila969/abc12345/128
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🔹 KNOWLEDGE🔹" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png",OUTDOOR (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="🔹 KNOWLEDGE🔹 ",DISCOVERY CHANNEL 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="🔹 KNOWLEDGE🔹 ",DISCOVERY CHANNEL 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="🔹 KNOWLEDGE🔹 ",DISCOVERY SCIENCE 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://hometv.pw/logo/knowledge/natgeo.png" group-title="🔹 KNOWLEDGE🔹 ",NATIONAL GEOGRAPHIC
+https://epg.pw/stream/5ed4a95fcb35e72d7cdde05b11da510b9eb79975911eaca47a19f5b10fb13993.m3u8
+https://epg.pw/stream/49689475716d93fcdbcc44ef2e38e779f7ebfe2fdd7769ad870de22612876b2b.m3u8
+EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="https://hometv.pw/logo/knowledge/natgeo_wild.png" group-title="🔹 KNOWLEDGE🔹 ",NAT GEO WILD
+http://myteve.online:8080/F12232/f23d27c1/724
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://hometv.pw/logo/knowledge/animal_planet.png" group-title="🔹 KNOWLEDGE🔹 ",ANIMAL PLANET 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://hometv.pw/logo/knowledge/bbc_earth.png" group-title="🔹 KNOWLEDGE🔹 ",BBC EARTH 
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://hometv.pw/logo/knowledge/history.png" group-title="🔹 KNOWLEDGE🔹 ",HISTORY 
+https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="CRIME INVESTIGATION" tvg-logo="https://hometv.pw/logo/knowledge/crime_invest.png" group-title="🔹 KNOWLEDGE🔹 ",CRIME INVESTIGATION 
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="CGTN DOCUMENTARY" tvg-logo="https://hometv.pw/logo/knowledge/cgtn_doc.png" group-title="🔹 KNOWLEDGE🔹 ",CGTN DOCUMENTARY 
+https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://hometv.pw/logo/knowledge/love_nature.png" group-title="🔹 KNOWLEDGE🔹 ",LOVE NATURE 
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="🔹 KNOWLEDGE🔹 ",Global Trekker 
+https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#EXTINF:-1 tvg-name="SMITHSONIAN" tvg-logo="https://hometv.pw/logo/knowledge/smithsonian.png" group-title="🔹 KNOWLEDGE🔹 ",SMITHSONIAN
+https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="🔹 KNOWLEDGE🔹 ",Dmax 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
