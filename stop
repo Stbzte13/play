@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZNDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i.ibb.co/VHVBwhJ/MNCTV.png" group-title="TV_LOKAL",MNCTV
-http://103.113.116.150:25461/mtm1/12345/6
+http://iptvtree.net:8080/F14995/a84c0963/165054
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W4Z8DC/indosiar.png" group-title="TV_LOKAL",INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -11,23 +11,30 @@ https://kusnadipepenk.github.io/campeign/indos.m3u8
 
 #EXTINF:-1 group-title="TV_LOKAL" tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.113.116.150:25461/mtm1/12345/4
+https://bit.ly/3Sc6EFk
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHzKmTK/Gtv.png" group-title="TV_LOKAL", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.113.116.150:25461/mtm1/12345/7
 
+#EXTINF:-1 group-title="TV_LOKAL" tvg-id="GTV.id" tvg-logo="https://i.ibb.co/GHzKmTK/Gtv.png", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jqZrPN/rcti.png" group-title="TV_LOKAL",RCTI 
-http://103.113.116.150:25461/mtm1/12345/5
+http://iptvtree.net:8080/F26646/f950f250/157591
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1wQZjD/trans-7-tv.png" group-title="TV_LOKAL",Trans7
 http://103.113.116.150:25461/mtm1/12345/1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMYbzt9/trans-tv.png" group-title="TV_LOKAL",Trans TV
-http://103.113.116.150:25461/mtm1/12345/2
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k0B9GJf/antv.png" group-title="TV_LOKAL",ANTV
-https://raw.githubusercontent.com/gala411/toettoet/main/ANTV.m3u8
+#EXTINF:0 tvg-id="outdoor" group-title="TV_LOKAL" tvg-logo="https://i.ibb.co/k0B9GJf/antv.png"", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="TV_LOKAL" tvg-id="RajawaliTV.id" tvg-logo="https://i.ibb.co/jhXmTjv/rtv.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -43,326 +50,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
-
-
-=============================== TV DIGITAL ===========================================
-
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANS7
-http://103.113.116.150:25461/mtm1/12345/1
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANSTV
-http://103.113.116.150:25461/mtm1/12345/2
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INDOSIAR
-http://103.113.116.150:25461/mtm1/12345/3
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SCTV
-http://103.113.116.150:25461/mtm1/12345/4
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RCTI
-http://103.113.116.150:25461/mtm1/12345/5
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MNCTV
-http://103.113.116.150:25461/mtm1/12345/6
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",GTV
-http://103.113.116.150:25461/mtm1/12345/7
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INEWS
-http://103.113.116.150:25461/mtm1/12345/8
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TV ONE
-http://103.113.116.150:25461/mtm1/12345/9
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANTV
-http://103.113.116.150:25461/mtm1/12345/10
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NET
-http://103.113.116.150:25461/mtm1/12345/11
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",METRO TV
-http://103.113.116.150:25461/mtm1/12345/12
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",KOMPAS TV
-http://103.113.116.150:25461/mtm1/12345/13
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RTV
-http://103.113.116.150:25461/mtm1/12345/14
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MOJI
-http://103.113.116.150:25461/mtm1/12345/15
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO
-http://103.113.116.150:25461/mtm1/12345/16
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO HITS
-http://103.113.116.150:25461/mtm1/12345/17
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO SIGNATURE
-http://103.113.116.150:25461/mtm1/12345/18
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO FAMILY
-http://103.113.116.150:25461/mtm1/12345/19
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CINEMAX
-http://103.113.116.150:25461/mtm1/12345/20
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IMC
-http://103.113.116.150:25461/mtm1/12345/21
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FLIK
-http://103.113.116.150:25461/mtm1/12345/22
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BIOSKOP INDONESIA
-http://103.113.116.150:25461/mtm1/12345/23
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARNER BROS TV
-http://103.113.116.150:25461/mtm1/12345/24
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MENTARI TV
-http://103.113.116.150:25461/mtm1/12345/25
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIPLUS
-http://103.113.116.150:25461/mtm1/12345/26
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SINDONEWS TV
-http://103.113.116.150:25461/mtm1/12345/27
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNN INTERNATIONAL
-http://103.113.116.150:25461/mtm1/12345/29
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNBC INTERNATIONAL
-http://103.113.116.150:25461/mtm1/12345/32
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BBC
-http://103.113.116.150:25461/mtm1/12345/34
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ALJAZEERA
-http://103.113.116.150:25461/mtm1/12345/35
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BLOOMBERG
-http://103.113.116.150:25461/mtm1/12345/36
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CGTN
-http://103.113.116.150:25461/mtm1/12345/37
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DW CHANEL
-http://103.113.116.150:25461/mtm1/12345/38
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO NEWS
-http://103.113.116.150:25461/mtm1/12345/39
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FRANCE 24
-http://103.113.116.150:25461/mtm1/12345/40
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNA
-http://103.113.116.150:25461/mtm1/12345/41
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IDX CHANEL
-http://103.113.116.150:25461/mtm1/12345/43
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARKOP DKI
-http://103.113.116.150:25461/mtm1/12345/45
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 2
-http://103.113.116.150:25461/mtm1/12345/48
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 3
-http://103.113.116.150:25461/mtm1/12345/49
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 4
-http://103.113.116.150:25461/mtm1/12345/50
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FIGHT SPORT
-http://103.113.116.150:25461/mtm1/12345/51
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",OPTUS SPORT
-http://103.113.116.150:25461/mtm1/12345/54
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (PREMIER LEAGUE)
-http://103.113.116.150:25461/mtm1/12345/55
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (SERI A)
-http://103.113.116.150:25461/mtm1/12345/56
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (LALIGA)
-http://103.113.116.150:25461/mtm1/12345/57
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (MOTOR SPORT)
-http://103.113.116.150:25461/mtm1/12345/58
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (TENNIS)
-http://103.113.116.150:25461/mtm1/12345/59
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (ACTION)
-http://103.113.116.150:25461/mtm1/12345/60
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (GOLF)
-http://103.113.116.150:25461/mtm1/12345/61
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (CRICKET)
-http://103.113.116.150:25461/mtm1/12345/62
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (AFRICA CUP)
-http://103.113.116.150:25461/mtm1/12345/63
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (RUGBY)
-http://103.113.116.150:25461/mtm1/12345/64
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL)
-http://103.113.116.150:25461/mtm1/12345/69
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 2
-http://103.113.116.150:25461/mtm1/12345/70
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 3
-http://103.113.116.150:25461/mtm1/12345/71
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 1 (THAI)
-http://103.113.116.150:25461/mtm1/12345/72
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 2 (THAI)
-http://103.113.116.150:25461/mtm1/12345/73
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 3 (THAI)
-http://103.113.116.150:25461/mtm1/12345/74
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 1)
-http://103.113.116.150:25461/mtm1/12345/75
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 3)
-http://103.113.116.150:25461/mtm1/12345/76
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE TENNIS
-http://103.113.116.150:25461/mtm1/12345/77
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DISCOVERY
-http://103.113.116.150:25461/mtm1/12345/85
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO
-http://103.113.116.150:25461/mtm1/12345/86
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO WILD
-http://103.113.116.150:25461/mtm1/12345/87
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIMAL PLANET
-http://103.113.116.150:25461/mtm1/12345/88
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HGTV
-http://103.113.116.150:25461/mtm1/12345/97
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TLC
-http://103.113.116.150:25461/mtm1/12345/98
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",AFN
-http://103.113.116.150:25461/mtm1/12345/99
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CARTOON NETWORK
-http://103.113.116.150:25461/mtm1/12345/107
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HOREE
-http://103.113.116.150:25461/mtm1/12345/112
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FOOTBALL)
-http://103.113.116.150:25461/mtm1/12345/128
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (EFL)
-http://103.113.116.150:25461/mtm1/12345/129
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FORMULA)
-http://103.113.116.150:25461/mtm1/12345/130
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (CRICKET)
-http://103.113.116.150:25461/mtm1/12345/131
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY PROTECT
-http://103.113.116.150:25461/mtm1/12345/132
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (GOLF)
-http://103.113.116.150:25461/mtm1/12345/133
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO CRICKET
-http://103.113.116.150:25461/mtm1/12345/134
-#############################################
-================ VISION+ ========================
-
-
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",MNCTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",RCTI
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",GTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TRANSTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683100&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TRANS7
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683116&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ANTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",RTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683095&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",NET
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683093&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",JTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683115&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV ONE
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683101&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CRIME INVESTIGATION
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683088&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",LOVE NATURE
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683089&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI ACTION
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683090&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HISTORY
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683091&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",OUTDOOR
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683086&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",MUSLIM TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683103&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",MEKKAH TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683102&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",IDX CHANEL
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683104&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",OK TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683105&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TAWAF TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683106&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV MUHAMMADIYAH
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683108&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CELESTIAL MOVIES
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683142&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CCM
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683110&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CGTN DOCUMENTARY
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683111&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ZOO MOO
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683113&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",SPOTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683117&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",XINGKONG
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683118&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",VISION PRIME
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683124&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CELEBRITIES TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683126&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ATV14
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683127&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",OKEZONE TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683128&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",LIFE TIME
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683129&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ONE
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683130&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",Sportstar
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683133&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",KIX
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683134&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FIGHT SPORT
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683135&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HUB SPORT 2
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683138&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",BEIN SPORT
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683139&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CGTN
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683140&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FMN
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683143&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",AXN
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683144&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HITS
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683145&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HITS MOVIES
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683163&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMA WORLD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683146&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TVN
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683148&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TVN MOVIES
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683149&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Family Cinema
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683150&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Cinema Asia
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683151&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Cinema
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683152&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Kidz
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683156&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",THRILL
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683154&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",Zee Bioskop
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683155&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI EXTRA
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683161&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI MAX
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683173&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI KIDS
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683085&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ANIMAX
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",KIDS TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",DREAMWORK
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683171&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ZOOMOO
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683172&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",PARAMOUNT NETWORK
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",NICKELODEON
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683175&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FOX NEWS
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683179&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",JAKTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",METRO TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683181&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",BTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683182&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",NHK WORLD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683183&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV5 MONDE ASIE
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683184&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CNA
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683185&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CNBC INTERNATIONAL
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683186&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ENT
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683188&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ALJAZEERA
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683190&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FRANCE 24
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683191&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",DW
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683192&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",SINDONEWS TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683193&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",KOMPAS TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TVRI
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683195&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV9 NUSANTARA
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ibb.co/vsrKyy7/vtv-indonesia.jpg" group-title="TV_LOKAL",VTV Indonesia 
+https://gachor99.my.id/play.m3u8?id=vtv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV_LOKAL",Oxygen TV
+https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
 
 
 
