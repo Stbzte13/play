@@ -1,4 +1,8 @@
-
+===================================RADIO===============================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R7QHWvP/Papeja-fm.jpg" group-title="RADIO",PAPEJA FM 
+https://rise.citrafm.com/papejafm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FDdxnQ/citra-fm.jpg" group-title="RADIO",CITRA FM
+https://rise.citrafm.com/live
 ===================================RCTI===============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FYGxggv/rcti.jpg" group-title="NATIONAL", 01.RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
