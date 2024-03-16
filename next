@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R7QHWvP/Papeja-fm.jpg" group-title="RADIO",PAPEJA FM 
+https://rise.citrafm.com/papejafm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FDdxnQ/citra-fm.jpg" group-title="RADIO",CITRA FM
+https://rise.citrafm.com/live
 
 ===================================RCTI===============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FYGxggv/rcti.jpg" group-title="NATIONAL", 01.RCTI
@@ -148,9 +152,6 @@ https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c68582449a2e01825972ddc
 
 
 ======================================VIVA============================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY4NLzc/vtv.jpg" group-title="NATIONAL",VIVA TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11833
 
 ======================================SERIES ZONE============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2F1mybN/SERIES-ZONE.jpg" group-title="NATIONAL", SERIES ZONE
